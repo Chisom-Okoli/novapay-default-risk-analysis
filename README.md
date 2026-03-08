@@ -2,6 +2,10 @@
 End-to-end loan default investigation for a Nigerian digital lender - Python data analysis + Power BI executive dashboard.  Covers data generation, EDA, risk segmentation, and business recommendations.
 
 #  NovaPay Default Risk Analysis
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Status-Complete-green)
+![Domain](https://img.shields.io/badge/Domain-Fintech%20%7C%20Credit%20Risk-orange)
 
 > End-to-end data analysis investigating a spike in micro-loan default rates across a Nigerian digital lending platform from raw data exploration to executive dashboard.
 
