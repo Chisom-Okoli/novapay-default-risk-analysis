@@ -16,6 +16,8 @@ After two years of stable performance at a **4.2% default rate**, the company re
 As the data analyst on the risk team, I was tasked with identifying the root causes of the spike and delivering findings to the Chief Risk Officer and board within four weeks.
 
 ---
+## Dashboard Overview
+https://github.com/Chisom-Okoli/novapay-default-risk-analysis/blob/main/Dashboard_Overview.png
 
 ##  Business Questions
 
