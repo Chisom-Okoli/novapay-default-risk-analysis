@@ -1,0 +1,2001 @@
+borrower_id,age,gender,state,employment_type,monthly_income_est,bvn_verified,signup_date,acquisition_channel
+BRW3C718294,40,M,Kano,Salaried,224194,True,2023-11-24,Referral
+BRW0D65B84A,35,M,Rivers,Self-Employed,48331,True,2023-09-09,Organic
+BRW98EADAE9,22,M,Enugu,Self-Employed,182853,True,2024-04-08,Agent
+BRWDC25B267,48,M,Kano,Salaried,301571,True,2024-02-21,Social Media
+BRW732B7E89,20,F,Borno,Salaried,260331,True,2023-04-16,Social Media
+BRW8007D976,63,M,Imo,Self-Employed,184714,True,2024-06-01,Social Media
+BRWDB59516F,22,M,Oyo,Salaried,426692,False,2024-05-25,Organic
+BRW64C001AD,20,F,Kano,Salaried,413281,True,2022-08-03,Referral
+BRW46D61CFB,45,F,Kano,Gig Worker,29358,True,2022-09-08,Organic
+BRWA93E5B90,28,M,Kaduna,Unemployed,25971,False,2024-03-05,Organic
+BRW75527C2C,53,M,Rivers,Gig Worker,72581,False,2023-08-04,Agent
+BRW8FB47D24,25,F,Imo,Gig Worker,71856,True,2022-09-29,Organic
+BRW0EA987D0,47,F,Plateau,Self-Employed,235825,True,2023-01-06,Organic
+BRW26715BAE,64,F,Edo,Self-Employed,63831,True,2023-10-05,Organic
+BRWCE284B02,43,M,Enugu,Self-Employed,140864,True,2024-09-21,Social Media
+BRW7A9AC5E1,61,F,Anambra,Gig Worker,35014,True,2024-02-27,Referral
+BRW2329F6FE,20,M,Katsina,Self-Employed,158940,False,2022-09-27,Agent
+BRW51229B62,49,F,Oyo,Self-Employed,67894,False,2023-06-04,Referral
+BRWCFB907AF,21,F,Plateau,Gig Worker,90697,True,2022-01-01,Social Media
+BRWAF9FCB2D,32,F,Edo,Salaried,270306,True,2022-09-03,Organic
+BRW6A56E458,56,F,Borno,Unemployed,7806,True,2022-05-09,Organic
+BRWC698AEA1,32,M,Ogun,Self-Employed,109483,True,2022-08-05,Agent
+BRW9570C49F,48,M,Imo,Gig Worker,113447,True,2023-03-25,Agent
+BRW25F17C31,31,M,Ogun,Salaried,113568,True,2023-08-26,Organic
+BRW1DBE5CD0,19,M,Lagos,Self-Employed,100015,False,2022-03-14,Social Media
+BRW3EA925E2,24,M,Plateau,Self-Employed,181356,False,2023-08-14,Social Media
+BRW94842309,50,M,Imo,Gig Worker,44957,True,2023-03-10,Social Media
+BRWFFBC1612,55,Unspecified,Abuja,Salaried,422598,True,2024-01-16,Social Media
+BRWA54EBD74,55,M,Kano,Salaried,179724,True,2022-10-13,Social Media
+BRW959B6DD3,56,M,Imo,Salaried,368528,False,2024-05-06,Organic
+BRW6262EE25,20,M,Enugu,Gig Worker,50982,True,2024-06-04,Social Media
+BRW77F96537,19,M,Plateau,Self-Employed,298292,True,2023-04-11,Organic
+BRWEF1EB72A,44,F,Katsina,Gig Worker,122676,True,2022-07-14,Organic
+BRWCAEB9E39,62,M,Kaduna,Self-Employed,182133,True,2023-08-22,Social Media
+BRW9BAD3CF8,59,F,Abuja,Self-Employed,54910,False,2022-03-12,Social Media
+BRW789993F1,43,F,Ogun,Salaried,142855,True,2023-09-01,Organic
+BRWF9DDF158,20,M,Plateau,Gig Worker,94085,True,2023-11-17,Referral
+BRW76E9C179,23,F,Enugu,Self-Employed,216079,True,2024-02-09,Agent
+BRWE9153421,18,Unspecified,Abuja,Self-Employed,187585,True,2023-06-03,Organic
+BRW7BE06FC6,60,M,Oyo,Gig Worker,135247,True,2024-05-03,Social Media
+BRW28C0B490,25,F,Anambra,Unemployed,0,True,2023-11-11,Organic
+BRWCF38CCA1,56,F,Kano,Salaried,136117,True,2023-09-12,Organic
+BRW83E1DC23,26,M,Enugu,Gig Worker,131792,True,2024-07-18,Referral
+BRW81F99559,20,M,Kaduna,Self-Employed,112530,True,2023-10-15,Agent
+BRW9CD2625A,22,M,Lagos,Self-Employed,224986,True,2024-08-25,Agent
+BRW00706C53,58,M,Anambra,Self-Employed,258784,True,2022-05-11,Organic
+BRW272C9891,27,M,Rivers,Unemployed,6307,True,2022-12-29,Referral
+BRW212482BD,57,F,Plateau,Self-Employed,202702,False,2024-06-04,Organic
+BRW5D90C9CA,51,M,Katsina,Salaried,296161,False,2024-03-12,Agent
+BRW042C59D1,51,M,Kano,Gig Worker,126266,True,2022-04-21,Social Media
+BRWAA1A319D,18,F,Enugu,Self-Employed,92316,True,2024-04-20,Referral
+BRW359B3AB9,23,M,Oyo,Salaried,181255,False,2024-09-17,Referral
+BRW43096EE1,27,Unspecified,Anambra,Self-Employed,218131,True,2022-01-29,Organic
+BRW8007A732,63,M,Ogun,Salaried,219180,True,2024-01-17,Referral
+BRW0A1D445A,30,F,Oyo,Unemployed,0,True,2023-03-23,Organic
+BRWA1A30CBC,60,F,Katsina,Self-Employed,228594,True,2023-01-08,Social Media
+BRW775F6441,61,F,Katsina,Unemployed,0,False,2023-06-04,Social Media
+BRW2BCBA828,29,F,Rivers,Self-Employed,117504,True,2024-08-20,Social Media
+BRWDEC826C3,48,M,Anambra,Salaried,378375,False,2022-11-08,Organic
+BRW13C7B4FB,30,M,Enugu,Self-Employed,211627,True,2022-08-07,Social Media
+BRWDF99DA6A,51,M,Anambra,Unemployed,0,True,2023-09-27,Social Media
+BRW9DB261A5,52,M,Borno,Gig Worker,108184,True,2022-01-26,Organic
+BRW8F5CD545,63,M,Delta,Self-Employed,241454,False,2023-08-13,Organic
+BRW7651F794,44,M,Katsina,Self-Employed,103959,True,2024-02-08,Agent
+BRWB5EF47F4,57,M,Katsina,Gig Worker,48683,True,2022-02-21,Social Media
+BRW7ABF5D97,59,F,Imo,Salaried,149908,True,2023-07-27,Social Media
+BRWCBFDF489,61,F,Plateau,Gig Worker,100301,True,2024-04-30,Agent
+BRWD8075EEB,31,M,Borno,Salaried,328866,True,2023-10-15,Organic
+BRW3EC217C6,50,M,Abuja,Self-Employed,102716,True,2022-08-29,Organic
+BRW2F959B2C,26,M,Delta,Self-Employed,76273,True,2023-12-25,Organic
+BRW1CC7BDCD,29,M,Rivers,Salaried,324278,False,2023-02-03,Agent
+BRW7C8E36FC,37,F,Ogun,Gig Worker,132293,True,2022-01-07,Agent
+BRW0CD27F6F,25,F,Delta,Self-Employed,273738,True,2024-01-23,Social Media
+BRWB30A79E3,38,M,Enugu,Salaried,195040,True,2022-12-11,Referral
+BRWCBBE374E,51,M,Kano,Gig Worker,130166,False,2023-07-01,Organic
+BRW72468349,29,M,Delta,Self-Employed,47104,True,2023-04-18,Organic
+BRW41461D37,24,M,Borno,Salaried,318393,False,2022-10-12,Referral
+BRW30059EDA,53,M,Katsina,Salaried,122942,True,2024-09-01,Social Media
+BRWC0294DD9,41,M,Lagos,Gig Worker,105426,False,2022-07-24,Referral
+BRW0A1CBA3B,39,F,Ogun,Salaried,328282,False,2023-04-22,Referral
+BRW89916EC2,49,F,Katsina,Salaried,398372,True,2024-04-18,Organic
+BRW8F7019C5,25,M,Imo,Self-Employed,283502,False,2023-01-20,Social Media
+BRW4296DAB6,45,F,Rivers,Salaried,442080,True,2024-03-02,Social Media
+BRWEA26C1BD,43,Unspecified,Borno,Gig Worker,124363,True,2023-06-30,Social Media
+BRWDBE38994,28,M,Delta,Self-Employed,129451,False,2022-04-19,Social Media
+BRWEB850C14,27,F,Delta,Gig Worker,80258,True,2023-06-19,Agent
+BRWB704FD23,24,F,Enugu,Gig Worker,90539,True,2024-01-19,Social Media
+BRW2490CFDC,26,M,Enugu,Salaried,125436,True,2023-04-21,Social Media
+BRW9F0C633A,42,F,Kano,Salaried,339158,True,2022-12-30,Referral
+BRW4DA78BEA,26,F,Anambra,Gig Worker,111905,True,2024-08-28,Organic
+BRW54959820,24,F,Katsina,Self-Employed,185536,True,2023-12-30,Social Media
+BRWC75F7E8E,51,M,Rivers,Salaried,196180,True,2023-08-19,Social Media
+BRW39F7BB33,35,F,Kaduna,Salaried,471084,True,2022-10-05,Social Media
+BRWCE1574AA,23,M,Anambra,Gig Worker,61359,False,2023-12-08,Organic
+BRWD869FF90,23,F,Borno,Self-Employed,229945,True,2022-10-17,Agent
+BRW94330648,53,M,Lagos,Salaried,269205,True,2022-05-10,Organic
+BRW45D18BC5,63,F,Imo,Self-Employed,222823,False,2023-05-18,Organic
+BRW0821C052,18,M,Kano,Salaried,330984,False,2022-09-16,Agent
+BRW65A29E0E,32,M,Ogun,Gig Worker,72521,True,2022-02-24,Organic
+BRW54290F32,52,M,Borno,Unemployed,7791,True,2023-09-03,Referral
+BRW62A8FC6F,23,F,Oyo,Self-Employed,158099,False,2023-03-16,Social Media
+BRW6B923330,39,M,Borno,Self-Employed,234009,True,2022-08-05,Organic
+BRW0C56F398,20,M,Lagos,Salaried,369402,True,2023-12-07,Social Media
+BRW047AF55F,25,M,Edo,Salaried,450648,True,2023-12-05,Organic
+BRW9FDF1CA5,24,F,Plateau,Gig Worker,97304,True,2022-04-28,Social Media
+BRW484981ED,41,M,Oyo,Unemployed,0,True,2024-04-24,Social Media
+BRWD7FD2ECB,25,M,Delta,Salaried,441065,False,2023-05-28,Social Media
+BRW0BA77C55,30,M,Kaduna,Self-Employed,273156,True,2022-01-27,Organic
+BRWD770BD98,62,F,Lagos,Gig Worker,95392,False,2023-11-20,Referral
+BRWC398AEF2,36,M,Imo,Gig Worker,42962,True,2022-10-12,Organic
+BRW06CA8EC8,37,F,Enugu,Self-Employed,168902,True,2022-12-08,Social Media
+BRW75FA49AF,20,F,Oyo,Salaried,295820,True,2023-02-15,Referral
+BRW26A477FB,35,M,Abuja,Self-Employed,122448,False,2023-02-18,Agent
+BRW4F5AA447,53,M,Lagos,Salaried,364475,True,2023-01-06,Referral
+BRWA268D702,33,M,Anambra,Self-Employed,53529,True,2022-10-22,Social Media
+BRW89E377F9,44,F,Rivers,Salaried,410313,True,2022-11-15,Social Media
+BRWAA865B2B,35,M,Abuja,Salaried,139486,True,2022-06-07,Social Media
+BRW903128A1,46,M,Enugu,Self-Employed,111676,False,2022-09-07,Social Media
+BRW91A53FFB,21,M,Plateau,Salaried,394246,True,2022-03-13,Organic
+BRW9555F95E,50,F,Oyo,Self-Employed,284907,False,2022-10-17,Referral
+BRW71162E5C,54,M,Kano,Self-Employed,212999,True,2023-05-11,Social Media
+BRW92F4737E,35,F,Edo,Self-Employed,159365,True,2023-12-16,Organic
+BRW057CE687,28,M,Katsina,Gig Worker,73841,True,2024-07-24,Referral
+BRW9EAFC731,28,F,Kano,Gig Worker,127577,True,2022-02-07,Organic
+BRWA4127E41,62,F,Enugu,Salaried,132619,True,2024-07-21,Social Media
+BRW54BDA0C0,46,F,Abuja,Self-Employed,211646,True,2024-09-19,Organic
+BRW82860D30,39,F,Edo,Self-Employed,61054,True,2023-07-01,Social Media
+BRW2212EC49,25,M,Anambra,Gig Worker,119536,True,2022-03-12,Organic
+BRW48869A9C,43,F,Delta,Salaried,199268,False,2024-02-18,Referral
+BRWCB04B6AD,56,M,Lagos,Self-Employed,221928,True,2024-03-26,Organic
+BRW190F3EC4,27,M,Ogun,Self-Employed,104014,True,2022-07-04,Organic
+BRW6D04974A,19,F,Enugu,Gig Worker,101226,False,2022-05-27,Organic
+BRW21218D16,40,M,Borno,Self-Employed,214808,True,2022-10-22,Referral
+BRW3CEE3BBE,21,Unspecified,Oyo,Self-Employed,130587,True,2023-03-11,Referral
+BRW971374F1,31,F,Abuja,Salaried,281690,True,2023-08-09,Social Media
+BRW63001158,25,Unspecified,Imo,Gig Worker,22875,True,2022-01-09,Social Media
+BRWB94301F0,43,F,Katsina,Gig Worker,26428,True,2024-07-14,Agent
+BRW0A9385B1,49,M,Rivers,Salaried,264717,True,2023-11-26,Referral
+BRWCB331157,49,F,Plateau,Gig Worker,37927,True,2022-02-10,Social Media
+BRWFAE15B3B,30,M,Plateau,Self-Employed,231983,True,2024-02-05,Social Media
+BRWE0A3F5F4,23,Unspecified,Anambra,Gig Worker,134879,True,2022-10-07,Referral
+BRW0363BF99,24,F,Oyo,Gig Worker,83156,True,2022-12-13,Referral
+BRWC06D8FF6,32,F,Edo,Salaried,475392,True,2023-11-22,Agent
+BRWE65FB5B2,62,M,Delta,Gig Worker,67942,True,2023-07-04,Organic
+BRWDA7D4931,28,F,Edo,Gig Worker,54362,True,2023-01-16,Organic
+BRW0CA2D2F0,23,M,Ogun,Salaried,374339,True,2022-03-06,Referral
+BRW56EFBCF3,31,M,Kano,Gig Worker,105097,True,2022-02-08,Social Media
+BRWD67DC4AE,33,M,Enugu,Salaried,361829,True,2024-08-30,Referral
+BRW14635C95,61,F,Plateau,Self-Employed,234581,True,2022-04-12,Referral
+BRWEC7FAD8D,39,M,Enugu,Unemployed,0,True,2022-08-30,Agent
+BRWEA40E702,20,F,Imo,Gig Worker,91364,True,2023-02-12,Organic
+BRW2B6D9B68,62,M,Imo,Unemployed,0,True,2022-01-22,Organic
+BRWDA5D2F8F,26,F,Anambra,Unemployed,0,True,2022-08-10,Referral
+BRW646420F7,23,F,Lagos,Gig Worker,123369,True,2022-05-29,Agent
+BRW8D0074FD,34,F,Lagos,Gig Worker,34408,True,2023-01-02,Referral
+BRW58264830,23,M,Kano,Salaried,171355,True,2023-06-23,Organic
+BRW200069AE,19,M,Abuja,Self-Employed,134906,True,2022-08-15,Agent
+BRW5D82651A,19,F,Oyo,Gig Worker,133636,True,2024-09-14,Organic
+BRWE073A0C0,64,F,Enugu,Gig Worker,75872,True,2023-03-31,Organic
+BRW0A170D8A,20,M,Ogun,Self-Employed,57218,True,2023-07-16,Referral
+BRW85B7F49D,28,M,Ogun,Self-Employed,117305,True,2024-03-23,Referral
+BRW2407F9AE,55,F,Edo,Gig Worker,120789,True,2023-04-08,Agent
+BRWACC8E019,29,M,Abuja,Gig Worker,72262,True,2022-11-17,Referral
+BRWDFB672C3,28,M,Edo,Salaried,328652,True,2023-03-19,Organic
+BRWFD9C67AE,47,M,Anambra,Gig Worker,92924,True,2023-11-18,Organic
+BRW47ABD0D6,27,M,Plateau,Gig Worker,118341,True,2024-09-18,Organic
+BRWC83B8DAC,25,M,Imo,Salaried,346030,True,2024-05-17,Organic
+BRWD80E2C58,54,M,Rivers,Self-Employed,239912,True,2024-05-15,Social Media
+BRWF9169579,49,F,Lagos,Self-Employed,216941,True,2023-11-05,Referral
+BRW0FF2594F,24,F,Plateau,Salaried,448416,True,2022-01-07,Organic
+BRW4231C865,21,M,Imo,Gig Worker,29120,False,2022-04-04,Referral
+BRW287B718F,23,M,Oyo,Self-Employed,129363,True,2024-03-06,Agent
+BRWAF97C1C1,37,M,Ogun,Gig Worker,40392,True,2022-03-25,Organic
+BRWA79C58CD,42,M,Rivers,Self-Employed,155879,True,2022-04-27,Social Media
+BRW589DC654,20,M,Imo,Gig Worker,97743,True,2022-08-14,Social Media
+BRW0BCF4C5D,38,F,Borno,Salaried,238030,True,2022-09-19,Organic
+BRW219EA9C6,21,M,Delta,Self-Employed,152893,True,2022-08-24,Social Media
+BRW1EE2B9E0,53,M,Katsina,Gig Worker,29447,True,2022-01-20,Social Media
+BRW89CC1FC1,19,F,Katsina,Salaried,305068,True,2022-10-24,Organic
+BRW29AC8565,18,M,Katsina,Salaried,404075,False,2022-04-01,Social Media
+BRW0306E712,20,M,Delta,Self-Employed,144975,False,2024-02-03,Social Media
+BRW1CE17CA1,26,F,Anambra,Salaried,347640,True,2024-07-16,Referral
+BRW5F1362A5,27,M,Kano,Unemployed,26149,True,2022-06-27,Referral
+BRW8B89A884,48,F,Imo,Gig Worker,43218,True,2024-02-12,Social Media
+BRW78A7C58A,36,F,Imo,Gig Worker,135611,False,2022-11-27,Agent
+BRW9D54A594,40,M,Imo,Salaried,115801,True,2022-10-09,Social Media
+BRWB940340D,27,M,Lagos,Salaried,322086,True,2022-10-21,Organic
+BRW1DD77070,55,F,Delta,Gig Worker,100610,True,2023-07-22,Agent
+BRW7F850428,47,F,Kaduna,Salaried,379712,True,2023-05-29,Organic
+BRW2FD75E0D,19,Unspecified,Abuja,Salaried,260060,True,2022-06-26,Organic
+BRWE5AA4527,45,M,Kaduna,Unemployed,0,False,2023-02-01,Social Media
+BRW2FBA145F,26,F,Kaduna,Self-Employed,246891,True,2022-04-07,Social Media
+BRW4B7DE7E4,28,F,Ogun,Salaried,424228,False,2022-12-08,Organic
+BRW52EE3BC4,42,F,Delta,Unemployed,15165,True,2023-12-27,Agent
+BRWE7188658,25,M,Kano,Self-Employed,247529,True,2024-04-28,Agent
+BRW842A3AB0,64,M,Kaduna,Unemployed,8062,True,2022-11-13,Organic
+BRWA27BC51D,23,Unspecified,Kano,Unemployed,0,True,2024-05-14,Referral
+BRW257A7BBF,33,F,Lagos,Self-Employed,233631,True,2024-06-16,Referral
+BRW800F841F,21,M,Katsina,Self-Employed,82532,True,2024-04-08,Agent
+BRW57006798,46,F,Rivers,Salaried,270997,False,2023-09-18,Organic
+BRW01DBDA1F,48,M,Borno,Self-Employed,179987,True,2024-07-14,Referral
+BRW1B0214DC,27,M,Delta,Unemployed,0,True,2023-03-05,Agent
+BRW4EC90468,52,F,Lagos,Gig Worker,38140,True,2024-06-14,Social Media
+BRW06F8AEF2,60,F,Oyo,Gig Worker,87621,True,2022-06-14,Organic
+BRW6CEAF6DB,58,M,Plateau,Salaried,309361,True,2023-04-07,Agent
+BRW9AF78AE5,60,M,Rivers,Self-Employed,143928,True,2022-03-25,Social Media
+BRWB7F03969,18,F,Kano,Unemployed,28419,True,2024-07-28,Referral
+BRWB475F95F,44,M,Ogun,Salaried,449904,True,2022-03-23,Organic
+BRWBCE0D187,23,F,Delta,Salaried,461280,True,2022-10-23,Organic
+BRWEDF15014,21,F,Enugu,Salaried,414994,True,2024-05-06,Agent
+BRW965D36A7,37,F,Katsina,Salaried,350205,True,2023-03-16,Organic
+BRWC68E7CFE,27,F,Abuja,Self-Employed,89103,True,2023-01-05,Organic
+BRW9FE34485,34,M,Lagos,Self-Employed,299085,True,2023-04-27,Organic
+BRW65E153DB,28,M,Borno,Self-Employed,235904,True,2022-09-04,Referral
+BRW50CA9791,40,F,Kano,Gig Worker,116362,True,2023-07-14,Social Media
+BRWE4620A4D,41,M,Katsina,Gig Worker,109742,True,2022-07-06,Referral
+BRW6E550C07,19,M,Rivers,Gig Worker,79988,True,2022-07-24,Agent
+BRW03CD489A,25,Unspecified,Anambra,Salaried,288784,True,2022-02-07,Referral
+BRW19BFD8BF,22,M,Imo,Self-Employed,244692,True,2022-05-08,Referral
+BRWA953688C,30,F,Delta,Self-Employed,155274,True,2022-07-11,Social Media
+BRWD190D11C,33,M,Delta,Unemployed,0,True,2023-09-09,Agent
+BRW22A82FB0,22,M,Imo,Salaried,133790,True,2023-04-02,Referral
+BRWB7949498,30,M,Katsina,Gig Worker,66077,False,2022-12-28,Referral
+BRWD410E18D,30,F,Abuja,Self-Employed,247481,True,2023-02-20,Social Media
+BRW7A88C998,51,M,Edo,Gig Worker,144884,True,2024-03-11,Social Media
+BRWC9BB810B,21,M,Delta,Salaried,418251,False,2022-02-03,Referral
+BRWA1F4648F,43,M,Kano,Unemployed,0,True,2023-02-12,Social Media
+BRW1C92AA56,25,M,Delta,Unemployed,5849,False,2022-05-01,Organic
+BRW355A312B,24,M,Plateau,Self-Employed,200399,False,2022-07-24,Organic
+BRW7753549F,55,F,Abuja,Self-Employed,275583,True,2024-09-17,Referral
+BRW4054BA4E,26,M,Oyo,Salaried,114046,False,2024-05-21,Organic
+BRW38A64F7C,45,F,Anambra,Gig Worker,42818,True,2022-07-25,Referral
+BRW42F59BFB,23,F,Kaduna,Self-Employed,134606,True,2023-07-19,Organic
+BRW0BDDFE77,57,Unspecified,Katsina,Salaried,288750,True,2023-02-25,Referral
+BRWD44FA97C,53,F,Enugu,Salaried,246213,True,2023-06-14,Social Media
+BRW11527A53,56,F,Borno,Gig Worker,103859,False,2023-03-20,Social Media
+BRWC66483D4,56,M,Kano,Gig Worker,87908,True,2024-08-15,Referral
+BRW41D2E681,27,M,Imo,Unemployed,14307,False,2022-10-09,Organic
+BRWFBB20E29,25,F,Ogun,Self-Employed,171746,False,2022-06-07,Organic
+BRW9F864473,39,F,Edo,Unemployed,16063,False,2022-03-25,Organic
+BRW9A2367C1,40,M,Ogun,Self-Employed,210689,True,2023-10-17,Organic
+BRWBC85EF04,57,F,Enugu,Self-Employed,208272,True,2024-04-06,Referral
+BRWDAE3BA6E,25,M,Delta,Salaried,111411,True,2022-07-28,Social Media
+BRWFD86C707,21,F,Edo,Gig Worker,61853,True,2023-02-13,Organic
+BRW6A957ED2,28,M,Abuja,Self-Employed,123654,True,2022-09-11,Organic
+BRWB22555CE,19,F,Plateau,Unemployed,0,True,2022-12-02,Agent
+BRWE373C1EB,46,M,Anambra,Salaried,163541,True,2024-06-19,Social Media
+BRW9DF16879,18,M,Ogun,Unemployed,0,True,2022-02-21,Organic
+BRW94906450,38,M,Anambra,Gig Worker,108148,True,2022-04-21,Social Media
+BRW7E1FACF9,57,M,Lagos,Gig Worker,120120,True,2023-08-07,Social Media
+BRW792599F3,27,M,Borno,Salaried,282558,True,2024-04-25,Agent
+BRW1C899B1B,43,M,Borno,Salaried,130688,False,2023-07-26,Agent
+BRWA19F113A,48,M,Lagos,Salaried,346926,True,2022-05-21,Referral
+BRW9E1FE2D7,51,F,Anambra,Self-Employed,79043,True,2024-08-11,Referral
+BRWB4E0CA8D,22,F,Anambra,Unemployed,29226,False,2023-06-30,Social Media
+BRW7E93B610,35,M,Imo,Self-Employed,44361,True,2023-03-03,Social Media
+BRWEDCA4E96,51,F,Ogun,Gig Worker,110183,True,2024-09-17,Referral
+BRW27DCA2E2,63,F,Ogun,Self-Employed,99649,True,2023-06-21,Referral
+BRWBA40CB9A,39,F,Rivers,Gig Worker,39369,True,2024-08-28,Referral
+BRW1F62B369,22,M,Katsina,Self-Employed,149780,True,2023-05-29,Referral
+BRW2B2096FF,59,F,Katsina,Gig Worker,116447,True,2022-08-01,Social Media
+BRWD96237D0,64,M,Kano,Self-Employed,138782,True,2023-06-30,Social Media
+BRW36C45CBD,27,F,Borno,Gig Worker,114493,True,2023-09-17,Social Media
+BRWDBBD7FBF,62,M,Oyo,Salaried,236499,True,2023-12-23,Organic
+BRW81C6DE17,45,F,Plateau,Salaried,262873,True,2022-10-08,Organic
+BRWF82D75FC,36,Unspecified,Edo,Self-Employed,274818,True,2024-03-02,Referral
+BRW4F5BF1AB,25,M,Plateau,Salaried,454415,True,2022-09-20,Referral
+BRWACBC902A,23,F,Katsina,Gig Worker,55537,True,2022-04-22,Referral
+BRW85A987CC,37,F,Rivers,Salaried,431185,True,2022-02-23,Organic
+BRWA1584083,26,F,Lagos,Self-Employed,218570,False,2024-09-28,Agent
+BRW95E9FE09,29,M,Oyo,Unemployed,0,True,2023-10-24,Organic
+BRWCD5B90AB,49,M,Katsina,Gig Worker,50437,False,2022-02-08,Agent
+BRW8821F400,22,F,Lagos,Gig Worker,43040,False,2023-02-11,Referral
+BRW42973100,22,F,Plateau,Gig Worker,134332,True,2022-11-02,Social Media
+BRW4E70AB59,20,F,Anambra,Unemployed,0,True,2024-08-19,Organic
+BRWF3244DDE,33,M,Katsina,Salaried,139059,True,2022-09-21,Referral
+BRWCCCE7B92,18,F,Borno,Salaried,234677,True,2023-09-18,Agent
+BRW936CF676,58,M,Delta,Gig Worker,87538,True,2022-07-09,Agent
+BRWB7114D9B,32,M,Borno,Unemployed,0,True,2022-12-04,Social Media
+BRWFCAF8178,46,M,Rivers,Salaried,422718,True,2022-05-02,Social Media
+BRW888AA030,22,F,Katsina,Gig Worker,140993,True,2023-12-08,Organic
+BRWC08A99C8,59,M,Kano,Salaried,402240,True,2023-04-11,Referral
+BRWFAA75CD7,38,F,Borno,Self-Employed,183978,True,2023-11-12,Referral
+BRW3AA60B5A,49,F,Abuja,Gig Worker,98094,True,2023-06-25,Referral
+BRWE56597A6,19,F,Plateau,Self-Employed,56189,True,2023-08-10,Social Media
+BRWE115B3DA,22,M,Rivers,Gig Worker,77912,True,2023-05-16,Organic
+BRW64808127,33,M,Delta,Gig Worker,79432,True,2022-03-01,Social Media
+BRWAC3FF560,43,M,Edo,Salaried,91413,True,2022-08-12,Social Media
+BRWE16F9FEE,19,M,Lagos,Salaried,113428,False,2022-03-12,Agent
+BRW57C63F89,32,F,Borno,Salaried,174362,True,2024-01-17,Referral
+BRW324F1262,30,F,Delta,Unemployed,0,True,2023-12-01,Agent
+BRWB8E86B12,56,M,Anambra,Salaried,262331,True,2022-05-11,Referral
+BRW867B036E,23,Unspecified,Enugu,Salaried,91919,True,2023-07-12,Social Media
+BRW9B0A9FC0,28,M,Oyo,Salaried,321500,True,2024-06-15,Referral
+BRW9A1C6867,20,F,Plateau,Gig Worker,74950,False,2022-01-17,Organic
+BRW344706C7,19,F,Katsina,Self-Employed,157031,False,2022-09-08,Referral
+BRWDFC57122,29,F,Borno,Salaried,193911,True,2023-05-31,Agent
+BRW3E53CC3F,23,F,Imo,Unemployed,0,True,2022-08-31,Social Media
+BRW33EF57BD,21,M,Oyo,Gig Worker,48972,True,2024-08-29,Social Media
+BRWA31E237D,47,M,Enugu,Salaried,435860,True,2022-12-19,Agent
+BRW033233D1,42,F,Delta,Gig Worker,61777,True,2023-01-21,Organic
+BRWB18B65BE,34,M,Katsina,Salaried,198145,True,2023-04-20,Agent
+BRWE459D648,35,M,Oyo,Unemployed,0,True,2023-10-25,Organic
+BRW9C5C7C09,31,F,Rivers,Self-Employed,180413,True,2023-01-22,Referral
+BRW1A6AED3D,38,F,Ogun,Gig Worker,44662,True,2023-07-27,Organic
+BRWA1EDE936,23,M,Plateau,Unemployed,14934,True,2024-01-30,Organic
+BRWE4BFCA58,64,F,Katsina,Self-Employed,103594,True,2024-07-26,Organic
+BRW3E47D4B1,26,M,Kaduna,Salaried,324449,True,2023-01-04,Social Media
+BRW4F207AD8,33,M,Edo,Salaried,458752,True,2022-07-28,Social Media
+BRW14D6D160,29,F,Lagos,Self-Employed,98005,True,2024-08-15,Social Media
+BRWC41B2FF0,46,M,Delta,Salaried,182860,True,2022-09-09,Social Media
+BRW29E08A85,41,F,Enugu,Gig Worker,53728,False,2023-10-20,Referral
+BRWE184B294,31,M,Katsina,Gig Worker,66160,True,2022-07-08,Agent
+BRWA8B43DB3,34,M,Edo,Self-Employed,55396,False,2024-08-25,Referral
+BRWE19610D1,19,F,Rivers,Salaried,152085,True,2022-06-04,Organic
+BRW2E71575D,33,F,Plateau,Self-Employed,201961,True,2023-05-10,Referral
+BRW4070E970,18,M,Anambra,Self-Employed,147829,True,2023-07-03,Agent
+BRW97645820,18,M,Plateau,Gig Worker,108346,True,2024-07-29,Organic
+BRW5405288E,21,M,Kaduna,Salaried,356014,True,2023-02-11,Organic
+BRW687EA24C,62,Unspecified,Rivers,Self-Employed,103755,True,2024-04-27,Referral
+BRW5E0D92E8,41,M,Delta,Gig Worker,119560,True,2023-07-20,Social Media
+BRWCF0A3CFD,40,M,Delta,Gig Worker,30837,True,2022-12-06,Social Media
+BRWBAC8187D,55,F,Rivers,Salaried,356907,True,2024-06-07,Referral
+BRW5AD77C9F,35,F,Oyo,Salaried,118979,False,2023-08-01,Referral
+BRW4CA98A50,22,F,Ogun,Gig Worker,22052,True,2024-04-20,Referral
+BRWEA953BB3,29,F,Ogun,Salaried,165170,False,2023-02-03,Referral
+BRW886644EB,34,M,Katsina,Self-Employed,233919,True,2023-05-28,Referral
+BRWE794F3BE,27,F,Kaduna,Salaried,201710,True,2023-09-21,Agent
+BRW68E1F0E2,29,F,Borno,Gig Worker,23883,False,2023-05-18,Organic
+BRW632D777F,35,F,Imo,Self-Employed,88690,True,2024-03-01,Referral
+BRWF9F6E15A,51,M,Delta,Gig Worker,30752,True,2023-10-12,Organic
+BRW21B0A36C,28,M,Oyo,Self-Employed,63991,True,2024-02-19,Organic
+BRW6AE79DF6,21,F,Anambra,Salaried,315323,True,2022-01-27,Organic
+BRW57B2723B,35,M,Delta,Self-Employed,245635,True,2023-02-28,Social Media
+BRWFD57F831,20,M,Delta,Unemployed,0,True,2022-10-03,Social Media
+BRW7861E54C,33,M,Oyo,Salaried,307895,True,2022-03-20,Social Media
+BRWF714B67E,61,F,Rivers,Gig Worker,84985,True,2022-05-19,Social Media
+BRW7A7BC814,61,M,Edo,Salaried,405159,True,2022-12-09,Social Media
+BRW6593D04E,53,M,Kaduna,Gig Worker,97908,True,2023-12-13,Organic
+BRW0224AFF7,25,F,Enugu,Unemployed,0,False,2024-03-11,Organic
+BRWDCBCFA13,28,M,Plateau,Gig Worker,71502,True,2023-08-30,Agent
+BRW31D38F73,22,F,Enugu,Gig Worker,23527,False,2022-08-03,Social Media
+BRWCBBDF555,25,F,Borno,Gig Worker,127343,True,2023-05-27,Organic
+BRWBF435D04,25,F,Borno,Salaried,160815,True,2023-04-05,Agent
+BRW8C8BB9C7,32,F,Edo,Self-Employed,172805,True,2023-07-11,Organic
+BRWA6E0D44F,62,M,Imo,Gig Worker,126469,False,2022-04-22,Referral
+BRW1DD9EEC7,42,F,Ogun,Self-Employed,209607,False,2023-11-25,Referral
+BRW8ED6FDCE,62,M,Lagos,Salaried,497454,True,2022-08-16,Social Media
+BRWF1F0F5DD,34,M,Kaduna,Self-Employed,190794,True,2024-03-01,Referral
+BRW797B5081,44,M,Oyo,Salaried,92877,True,2024-09-11,Organic
+BRW0F10E4F4,53,M,Enugu,Gig Worker,65656,True,2023-06-18,Social Media
+BRWD535310A,32,M,Abuja,Self-Employed,222652,True,2024-04-09,Referral
+BRWC7447DAE,18,F,Kano,Salaried,137337,False,2024-01-29,Organic
+BRW100B1E17,22,M,Enugu,Salaried,373522,True,2023-02-19,Referral
+BRWE38D21D8,22,M,Ogun,Gig Worker,71849,False,2023-04-06,Social Media
+BRW433953D5,28,M,Katsina,Gig Worker,46972,True,2022-03-06,Social Media
+BRW258B8433,51,M,Enugu,Self-Employed,135890,True,2023-11-18,Agent
+BRW1578BE04,34,M,Delta,Self-Employed,196492,True,2022-12-23,Social Media
+BRWFCEECD41,31,F,Oyo,Salaried,433154,False,2023-08-28,Organic
+BRW3612E8AB,21,M,Kaduna,Salaried,240107,True,2023-06-08,Social Media
+BRW4DEB8770,37,M,Imo,Self-Employed,150897,True,2024-07-30,Referral
+BRW9BFAD3B9,64,M,Kano,Self-Employed,168356,True,2023-04-07,Referral
+BRWD12E2A74,55,F,Anambra,Unemployed,0,True,2023-05-22,Social Media
+BRW244AE56F,32,M,Abuja,Gig Worker,78176,True,2024-03-25,Referral
+BRWBDE5F7C2,25,M,Borno,Salaried,361861,True,2024-01-31,Referral
+BRW68BCE643,33,M,Borno,Self-Employed,190133,True,2023-01-11,Social Media
+BRW0A669AC4,48,M,Delta,Gig Worker,77850,True,2024-04-29,Referral
+BRWC87CE477,24,M,Kaduna,Gig Worker,24224,False,2022-03-31,Social Media
+BRWE48C8B9C,64,M,Katsina,Gig Worker,51056,True,2022-12-26,Agent
+BRWA63A5133,38,M,Rivers,Self-Employed,201520,True,2024-04-04,Organic
+BRWFE779055,27,M,Katsina,Salaried,362469,True,2023-08-10,Organic
+BRWC2887E11,55,M,Borno,Unemployed,27259,True,2024-07-29,Organic
+BRW1313DA88,24,F,Rivers,Gig Worker,111937,True,2022-11-26,Referral
+BRW5175BC8B,49,M,Imo,Gig Worker,84154,True,2023-03-01,Social Media
+BRWE90CD0F8,19,M,Anambra,Gig Worker,120779,True,2023-12-13,Agent
+BRW35EB2313,28,F,Edo,Unemployed,0,True,2024-01-19,Agent
+BRWC1E1C374,40,M,Anambra,Gig Worker,131425,True,2024-09-18,Social Media
+BRW9CCDAAB3,23,M,Ogun,Salaried,228684,True,2024-05-22,Social Media
+BRW497C953E,27,M,Imo,Gig Worker,26345,True,2023-04-16,Organic
+BRW8A88B18E,60,M,Delta,Salaried,319346,True,2023-12-07,Agent
+BRW8A212107,57,M,Kaduna,Salaried,223665,True,2023-01-16,Referral
+BRWABD23CFA,41,M,Katsina,Salaried,407996,True,2023-03-16,Referral
+BRW3FD9FA72,45,M,Ogun,Salaried,329984,True,2023-11-28,Social Media
+BRWC52D30B4,18,Unspecified,Delta,Salaried,143225,True,2023-05-05,Organic
+BRW332D4D2C,28,M,Kaduna,Gig Worker,33425,False,2022-05-21,Social Media
+BRWF107BF27,52,Unspecified,Kano,Gig Worker,104092,True,2023-07-31,Organic
+BRW0511CA72,41,M,Katsina,Self-Employed,229381,True,2023-02-26,Referral
+BRWA46A1331,30,M,Abuja,Salaried,132672,True,2023-01-29,Social Media
+BRWB13DE796,30,M,Abuja,Gig Worker,52477,True,2023-09-08,Referral
+BRWF26B3B6D,38,M,Edo,Gig Worker,110502,True,2022-11-05,Organic
+BRW3ADE3441,38,M,Lagos,Salaried,285390,True,2024-03-23,Agent
+BRW79804E24,33,F,Abuja,Salaried,341925,True,2024-09-28,Organic
+BRW2CD1033C,27,F,Ogun,Salaried,282814,True,2023-07-14,Referral
+BRW3C8823B4,49,M,Oyo,Unemployed,0,True,2024-08-02,Organic
+BRWED2052FC,50,F,Borno,Self-Employed,204776,True,2023-12-20,Social Media
+BRW764C111C,40,M,Oyo,Self-Employed,80024,True,2024-08-01,Organic
+BRW923A719A,52,F,Borno,Self-Employed,142427,False,2023-11-29,Referral
+BRW32EDB004,25,F,Lagos,Self-Employed,289935,True,2024-08-04,Social Media
+BRW817DCD7C,31,F,Imo,Self-Employed,121078,True,2022-05-03,Organic
+BRW75A0BDCF,21,F,Anambra,Salaried,340263,True,2024-04-22,Referral
+BRW29E83A10,22,F,Katsina,Salaried,489533,False,2024-02-29,Agent
+BRW9282BA5C,26,M,Katsina,Self-Employed,177325,False,2023-10-05,Organic
+BRW9A0482E7,31,F,Kano,Self-Employed,170969,True,2022-09-19,Referral
+BRWB1473EFA,57,M,Anambra,Gig Worker,35117,True,2024-05-29,Agent
+BRW91A71314,24,F,Kano,Self-Employed,140395,False,2024-05-28,Organic
+BRWA393B31D,51,M,Kaduna,Gig Worker,105944,True,2024-07-26,Referral
+BRWF6C6891B,24,M,Imo,Salaried,275458,False,2022-07-03,Organic
+BRW3A68C3E4,33,M,Enugu,Salaried,290200,False,2024-03-03,Referral
+BRW175B0F2B,26,M,Oyo,Self-Employed,42089,True,2022-11-08,Referral
+BRWC464EFFD,24,M,Borno,Self-Employed,294766,True,2024-01-21,Agent
+BRW940CCBA6,48,F,Lagos,Salaried,83343,True,2022-12-21,Referral
+BRWFFECD7B5,44,M,Imo,Salaried,255645,True,2024-01-26,Referral
+BRW28DA4D0C,20,M,Lagos,Self-Employed,102434,False,2022-05-26,Referral
+BRWA5ED7CC6,20,F,Enugu,Unemployed,0,False,2022-03-28,Social Media
+BRW43EFEB3B,33,M,Ogun,Self-Employed,143376,True,2023-11-10,Agent
+BRWB37E0D64,23,F,Delta,Salaried,245155,True,2024-01-24,Social Media
+BRW7987DDA5,31,M,Borno,Salaried,186279,True,2022-06-09,Organic
+BRWC5F2D2A5,31,M,Borno,Salaried,143300,True,2022-11-12,Social Media
+BRW5E31E3D4,55,M,Katsina,Salaried,439690,True,2022-02-11,Organic
+BRW01FF35F6,55,M,Kaduna,Salaried,452851,True,2022-02-20,Referral
+BRW37B7FC78,24,F,Anambra,Unemployed,6018,True,2022-09-13,Organic
+BRW40DC5283,20,M,Edo,Gig Worker,35919,True,2022-08-16,Organic
+BRWEDE595AD,53,F,Abuja,Self-Employed,205228,True,2022-09-23,Agent
+BRW7C25184F,19,M,Kano,Unemployed,11479,True,2024-05-17,Referral
+BRW3F9530EC,26,M,Plateau,Salaried,321694,True,2024-04-21,Referral
+BRW3D2CA97F,33,M,Rivers,Self-Employed,151847,False,2022-10-09,Organic
+BRW046F28FB,57,F,Imo,Salaried,404626,True,2023-02-26,Agent
+BRW297AD0D3,32,M,Rivers,Salaried,280810,True,2024-03-27,Social Media
+BRWC9BE4199,40,M,Delta,Gig Worker,124182,True,2023-01-03,Social Media
+BRW5B9D3B4A,50,M,Delta,Salaried,376564,True,2022-01-27,Social Media
+BRWCE4CE742,23,M,Borno,Gig Worker,122044,False,2023-06-27,Social Media
+BRW087A5F7E,37,M,Imo,Salaried,163689,True,2023-07-01,Referral
+BRWC5230785,59,F,Borno,Salaried,195034,True,2024-08-15,Referral
+BRWFB6AF070,54,M,Katsina,Salaried,390650,True,2024-07-24,Social Media
+BRWB8DA77BB,45,F,Ogun,Self-Employed,188806,False,2024-05-06,Agent
+BRW30FC413D,57,M,Lagos,Self-Employed,121016,True,2022-08-27,Referral
+BRW02B83FB7,18,F,Rivers,Self-Employed,126962,True,2022-12-15,Referral
+BRW9B32BBFA,59,M,Kano,Gig Worker,62413,True,2024-07-28,Organic
+BRWC9EB3997,20,F,Kaduna,Self-Employed,135653,True,2023-11-10,Social Media
+BRWF3E57B02,20,Unspecified,Katsina,Salaried,151539,False,2024-03-21,Referral
+BRWFA45F663,32,F,Katsina,Salaried,450767,False,2023-09-21,Referral
+BRW9F477866,23,M,Katsina,Self-Employed,85967,True,2022-05-11,Organic
+BRW145E5B53,18,M,Borno,Gig Worker,95082,False,2022-02-03,Organic
+BRW4771AE77,25,M,Ogun,Gig Worker,100134,True,2023-05-24,Organic
+BRW3670D17C,47,M,Plateau,Salaried,247519,False,2024-04-21,Referral
+BRW5BE57F2E,40,M,Rivers,Gig Worker,78540,True,2022-03-11,Social Media
+BRW6A87EBB2,50,M,Katsina,Gig Worker,26310,True,2022-06-20,Agent
+BRWF2E01048,33,M,Edo,Self-Employed,183136,True,2024-06-03,Social Media
+BRWAF11C704,48,M,Edo,Salaried,316604,True,2022-01-21,Social Media
+BRWA8757EAD,61,F,Kano,Salaried,169184,True,2023-07-15,Agent
+BRWCC9342C7,63,F,Katsina,Salaried,401726,True,2024-08-23,Referral
+BRWC1B26C78,38,M,Rivers,Self-Employed,54039,False,2023-02-24,Referral
+BRWF996C598,46,F,Oyo,Gig Worker,54768,True,2022-02-20,Social Media
+BRWF24AAED2,35,M,Delta,Self-Employed,54288,True,2024-04-23,Referral
+BRWF8FDBDA0,38,M,Imo,Salaried,93492,True,2022-03-25,Social Media
+BRWB900DA2C,20,M,Imo,Gig Worker,81727,True,2023-10-20,Social Media
+BRW59186B9C,22,M,Lagos,Gig Worker,68418,True,2023-04-22,Organic
+BRW24A78A4B,54,F,Imo,Self-Employed,79617,True,2023-11-16,Social Media
+BRW2AE3ECFF,34,M,Delta,Unemployed,0,True,2023-03-05,Agent
+BRW12196414,44,M,Abuja,Unemployed,23766,True,2024-05-24,Referral
+BRWAF472E51,33,F,Abuja,Unemployed,23726,False,2023-04-05,Organic
+BRW9A1CA3A6,63,M,Imo,Unemployed,0,True,2024-04-22,Referral
+BRW63C5E35E,53,F,Abuja,Salaried,461211,True,2023-07-24,Social Media
+BRWE9D9F97E,26,F,Lagos,Salaried,320206,True,2023-10-01,Social Media
+BRWA70E5D08,50,M,Ogun,Salaried,158455,True,2024-09-14,Agent
+BRW54EA6E5F,59,F,Edo,Self-Employed,66474,True,2022-12-19,Agent
+BRW0EE5542E,24,F,Lagos,Gig Worker,94976,True,2023-02-17,Organic
+BRW9C05A34C,38,M,Plateau,Gig Worker,25083,True,2022-09-01,Organic
+BRW8E8E5BE9,32,M,Edo,Salaried,275266,True,2022-11-15,Organic
+BRWA6404697,32,Unspecified,Rivers,Gig Worker,32873,True,2024-09-24,Referral
+BRWFB257F3B,49,M,Imo,Salaried,462100,True,2023-03-29,Organic
+BRWED99A666,53,M,Kaduna,Gig Worker,119548,False,2023-06-12,Referral
+BRW16E53DFA,19,M,Edo,Gig Worker,72872,True,2023-08-06,Organic
+BRW230E7A50,22,M,Lagos,Gig Worker,129704,True,2024-07-29,Social Media
+BRW98456DCD,23,M,Imo,Self-Employed,161692,False,2023-11-29,Organic
+BRWD7A6D3E6,28,F,Enugu,Self-Employed,86552,True,2022-12-25,Social Media
+BRWF09F5C25,54,M,Lagos,Salaried,441156,True,2022-06-16,Agent
+BRW40961E40,50,F,Imo,Salaried,196051,True,2023-10-30,Social Media
+BRWD73B7BC8,18,F,Enugu,Gig Worker,120607,False,2023-10-25,Organic
+BRWAC5CCB77,51,F,Oyo,Salaried,398947,True,2023-12-28,Referral
+BRWCEADCEF5,30,M,Rivers,Self-Employed,131412,True,2023-11-25,Social Media
+BRW37A335B2,39,M,Imo,Self-Employed,41926,False,2024-05-09,Social Media
+BRW6267E7AF,41,F,Enugu,Self-Employed,118243,True,2022-10-11,Referral
+BRWE0DA5ACB,55,F,Imo,Salaried,452817,True,2022-06-03,Social Media
+BRWC453A34E,24,M,Kaduna,Salaried,394590,True,2024-01-09,Organic
+BRWFDA70417,33,M,Katsina,Salaried,299448,True,2023-12-27,Agent
+BRWB3B7C882,52,M,Anambra,Salaried,454010,True,2023-05-03,Agent
+BRW06371C55,43,M,Imo,Self-Employed,261621,False,2022-07-05,Organic
+BRW7B71043A,32,F,Borno,Gig Worker,115051,False,2024-08-27,Referral
+BRW246324C3,26,M,Edo,Salaried,266270,True,2024-03-18,Agent
+BRW4B41E67D,28,F,Enugu,Self-Employed,161572,True,2023-10-12,Social Media
+BRWF1E16999,61,M,Edo,Salaried,181996,True,2023-06-27,Organic
+BRW3D507AEA,19,Unspecified,Kaduna,Gig Worker,38004,True,2023-08-07,Agent
+BRWE1FC4493,64,M,Abuja,Salaried,455216,True,2023-10-09,Agent
+BRWACB8CA98,25,M,Borno,Salaried,317006,True,2023-08-14,Referral
+BRW88EF5D50,32,M,Delta,Gig Worker,31539,True,2023-02-18,Social Media
+BRW0F96D28E,32,M,Kaduna,Salaried,359855,False,2024-07-02,Social Media
+BRW5CC2510A,53,M,Katsina,Salaried,434810,True,2023-12-12,Agent
+BRWAA454736,25,F,Kano,Salaried,343893,True,2022-02-16,Organic
+BRW71D54B70,25,M,Delta,Gig Worker,98167,False,2022-05-18,Social Media
+BRW6002A3E6,58,M,Plateau,Self-Employed,89394,False,2023-02-18,Organic
+BRWC46572D6,23,F,Kano,Unemployed,11920,True,2023-12-30,Referral
+BRWB3A5DDDB,18,F,Ogun,Gig Worker,53526,True,2022-02-19,Referral
+BRW65F4986C,41,M,Enugu,Salaried,441627,True,2023-07-15,Organic
+BRW1887BD82,45,F,Oyo,Salaried,439525,True,2022-04-14,Referral
+BRW2B414C4E,24,M,Plateau,Self-Employed,75956,True,2024-01-07,Referral
+BRW09E8222E,25,M,Rivers,Gig Worker,85239,True,2024-05-01,Social Media
+BRW3C149D8E,23,M,Anambra,Gig Worker,58712,True,2022-08-01,Referral
+BRWD9BCC326,32,F,Plateau,Salaried,86684,True,2023-08-11,Referral
+BRWA5A530E9,21,M,Katsina,Salaried,348280,True,2022-09-20,Referral
+BRWE9C8398A,31,M,Kano,Unemployed,0,False,2024-05-22,Organic
+BRW1BA131D5,51,M,Edo,Salaried,467207,True,2022-02-16,Organic
+BRW57B5EB75,21,M,Enugu,Self-Employed,126156,False,2022-10-02,Agent
+BRW11514F93,20,M,Delta,Gig Worker,43969,False,2022-10-06,Referral
+BRWE43F5B5E,44,F,Borno,Self-Employed,150556,True,2022-05-16,Referral
+BRW6BFB0A7D,19,F,Enugu,Unemployed,0,True,2023-11-26,Social Media
+BRWA47DD57E,38,M,Imo,Gig Worker,100131,False,2024-01-15,Agent
+BRWF5D08612,21,M,Abuja,Unemployed,8700,True,2022-11-18,Organic
+BRW088F0435,56,F,Ogun,Self-Employed,234936,True,2024-09-05,Referral
+BRWA8F61723,26,F,Delta,Self-Employed,223652,True,2022-09-12,Social Media
+BRW339CCC99,42,F,Anambra,Self-Employed,78968,False,2023-09-20,Organic
+BRWC355316D,41,F,Edo,Salaried,326042,True,2024-02-09,Social Media
+BRW8E28A9CB,24,F,Delta,Unemployed,0,True,2022-08-29,Organic
+BRW5CA38770,31,F,Enugu,Self-Employed,63073,True,2023-05-25,Referral
+BRW69A6A56B,18,F,Lagos,Self-Employed,49393,False,2024-03-21,Referral
+BRWD0E44E04,39,F,Imo,Salaried,346515,True,2024-08-31,Social Media
+BRWF3AD9788,53,M,Anambra,Gig Worker,130666,True,2023-09-07,Social Media
+BRW1684ABBA,42,M,Imo,Gig Worker,34945,True,2022-12-16,Social Media
+BRW97CC7FF5,40,M,Katsina,Gig Worker,91786,True,2024-07-07,Organic
+BRWCAFF1CB1,21,M,Oyo,Gig Worker,114576,True,2022-07-12,Organic
+BRW9CF57EE7,55,M,Kaduna,Salaried,489689,True,2023-03-01,Organic
+BRW884FB682,40,F,Enugu,Gig Worker,36150,True,2023-08-27,Agent
+BRW6692B909,21,F,Anambra,Self-Employed,179031,False,2024-05-08,Social Media
+BRW8F4D495C,59,M,Ogun,Gig Worker,139299,True,2024-04-14,Organic
+BRW08D6A9DD,28,M,Plateau,Self-Employed,271393,True,2024-09-30,Referral
+BRWD6569DB3,44,F,Oyo,Salaried,288598,True,2022-05-17,Organic
+BRW0EAF069E,38,M,Katsina,Gig Worker,87147,True,2022-11-18,Referral
+BRW945CAB4B,60,M,Katsina,Self-Employed,92661,True,2022-12-20,Agent
+BRW26CA5401,21,F,Anambra,Gig Worker,147818,True,2023-10-15,Social Media
+BRW908A5BC2,20,F,Imo,Self-Employed,165926,True,2023-11-22,Referral
+BRWF249C304,54,F,Anambra,Salaried,301452,True,2023-01-26,Organic
+BRW68CF346E,42,F,Oyo,Salaried,473313,True,2022-05-30,Referral
+BRW86F994C6,44,M,Kaduna,Salaried,475100,True,2022-04-15,Referral
+BRW6E629916,43,F,Anambra,Self-Employed,98800,True,2023-06-08,Referral
+BRW61C883DA,51,M,Delta,Salaried,428386,True,2024-09-06,Referral
+BRW4CC7633A,43,M,Ogun,Unemployed,0,False,2024-05-31,Agent
+BRW1F020493,53,M,Ogun,Unemployed,28089,True,2023-09-10,Organic
+BRWC92004F5,46,M,Imo,Salaried,315308,True,2024-09-12,Organic
+BRW5600C473,33,M,Oyo,Self-Employed,152330,True,2023-08-22,Referral
+BRWC2B3AEC1,18,M,Kano,Self-Employed,285758,False,2023-09-04,Organic
+BRW73349EDB,60,M,Borno,Self-Employed,213510,True,2023-01-02,Organic
+BRWE8CB8A6F,45,M,Abuja,Self-Employed,290868,True,2022-06-13,Social Media
+BRW23F38E65,34,F,Imo,Salaried,195971,True,2023-01-05,Organic
+BRW3FE123A3,61,Unspecified,Edo,Self-Employed,164480,True,2023-10-27,Organic
+BRW34F43DDE,42,F,Plateau,Self-Employed,277108,True,2024-09-08,Organic
+BRW8E0DC4BE,57,F,Delta,Self-Employed,248720,True,2024-01-12,Organic
+BRW480C5DCA,59,M,Anambra,Gig Worker,69146,True,2022-02-14,Organic
+BRW9222A833,41,F,Kano,Salaried,123172,False,2024-03-02,Social Media
+BRW9DBFAE8E,18,F,Rivers,Salaried,431448,False,2023-03-11,Referral
+BRW3705B977,23,Unspecified,Borno,Gig Worker,135164,True,2024-04-16,Agent
+BRW0736FB17,48,F,Lagos,Salaried,320766,True,2022-02-25,Organic
+BRW8B08CC99,24,F,Delta,Salaried,199351,True,2023-10-08,Social Media
+BRWFE447ADA,25,M,Imo,Self-Employed,71013,True,2022-03-06,Referral
+BRWDFDD5FA9,37,M,Anambra,Gig Worker,29514,True,2024-03-16,Referral
+BRW6A0298B6,38,M,Edo,Salaried,309468,True,2023-05-01,Organic
+BRW804F270A,23,F,Anambra,Gig Worker,124434,True,2023-10-12,Organic
+BRW5B36ACC8,43,F,Lagos,Unemployed,28898,True,2023-07-23,Organic
+BRW4247F1B9,19,M,Abuja,Self-Employed,143306,True,2024-02-06,Referral
+BRW83381439,46,F,Kano,Salaried,418654,True,2022-08-15,Referral
+BRWCE7B595B,24,F,Edo,Salaried,431785,True,2024-02-09,Agent
+BRW877E84BF,64,M,Imo,Self-Employed,184091,True,2022-04-11,Organic
+BRW851B2FF2,36,F,Abuja,Unemployed,0,True,2022-03-13,Agent
+BRW2E214AF1,25,F,Katsina,Self-Employed,201570,True,2023-08-03,Social Media
+BRW796F9339,52,M,Rivers,Unemployed,0,True,2023-10-19,Social Media
+BRW14DFA47A,54,M,Enugu,Salaried,464288,True,2023-01-03,Referral
+BRWC943A16D,32,F,Edo,Salaried,418454,True,2024-04-26,Organic
+BRW394F1463,34,M,Abuja,Salaried,408528,False,2024-05-19,Social Media
+BRW92266966,18,F,Rivers,Self-Employed,146203,False,2023-07-19,Organic
+BRWF99E084C,57,F,Kaduna,Self-Employed,211418,True,2024-07-01,Referral
+BRW2180EC9F,47,M,Abuja,Salaried,323637,True,2023-05-30,Organic
+BRWD1B41F75,24,F,Kano,Unemployed,25120,True,2022-07-03,Social Media
+BRWA2ED3B30,35,F,Enugu,Gig Worker,39162,False,2022-02-11,Organic
+BRWFE5D096C,32,M,Imo,Salaried,273690,True,2024-07-18,Referral
+BRWB8D74D8A,28,F,Abuja,Unemployed,0,True,2023-06-18,Referral
+BRW8E0CE53B,24,M,Kano,Gig Worker,95842,True,2023-01-23,Social Media
+BRWA40A0A27,41,M,Plateau,Gig Worker,87720,True,2023-02-20,Social Media
+BRW8BC56FF1,56,F,Lagos,Self-Employed,166382,True,2022-05-23,Social Media
+BRWAF3BA710,23,M,Kano,Self-Employed,113612,True,2023-09-09,Referral
+BRW17D62396,20,F,Enugu,Salaried,253132,True,2023-05-06,Organic
+BRW9C1EE42D,22,M,Kano,Gig Worker,22942,True,2022-06-14,Organic
+BRWE557EB59,33,M,Oyo,Gig Worker,39249,False,2023-06-14,Agent
+BRWA37DC4BC,38,F,Katsina,Self-Employed,44881,True,2022-10-18,Agent
+BRWB6F87E99,23,F,Kano,Self-Employed,163578,True,2023-02-25,Referral
+BRWE231482B,51,F,Anambra,Gig Worker,43839,True,2024-01-12,Referral
+BRW321EABD9,59,M,Delta,Self-Employed,58046,True,2022-01-17,Organic
+BRWF1898BDA,55,F,Ogun,Self-Employed,150046,True,2023-05-03,Agent
+BRWE238987D,38,M,Abuja,Gig Worker,89655,True,2023-11-07,Organic
+BRW01F1D940,38,F,Imo,Gig Worker,137567,True,2023-06-19,Social Media
+BRW4C150ABE,56,M,Borno,Gig Worker,76224,True,2024-02-27,Social Media
+BRWEFF48642,37,F,Ogun,Gig Worker,119816,True,2022-05-18,Organic
+BRW9021A606,49,F,Delta,Unemployed,0,True,2022-01-06,Referral
+BRW3C1FB260,50,M,Delta,Self-Employed,70888,True,2023-12-06,Referral
+BRWA0948DA8,29,F,Oyo,Salaried,303384,True,2023-07-03,Social Media
+BRWCCAAB263,27,M,Rivers,Salaried,436833,True,2024-03-13,Social Media
+BRWCFCE8696,22,M,Oyo,Self-Employed,166814,True,2024-03-03,Referral
+BRW3CC7C855,47,M,Rivers,Gig Worker,106413,True,2023-12-18,Agent
+BRW4002430E,20,M,Anambra,Self-Employed,246066,True,2023-12-02,Referral
+BRWA60E3BAA,22,F,Enugu,Unemployed,5173,False,2023-03-22,Organic
+BRW713F0D26,24,M,Delta,Self-Employed,199653,False,2023-02-15,Referral
+BRWBC2BAF99,34,M,Borno,Gig Worker,98311,False,2023-10-18,Social Media
+BRW09375D45,18,F,Oyo,Gig Worker,141996,True,2024-03-13,Social Media
+BRW8391D1E7,33,F,Kaduna,Salaried,168857,True,2022-01-01,Agent
+BRWE8295474,20,M,Delta,Salaried,289418,True,2022-07-25,Social Media
+BRW159A611E,47,M,Katsina,Salaried,127272,False,2024-07-25,Social Media
+BRW154D495D,27,F,Rivers,Gig Worker,49661,True,2023-02-18,Social Media
+BRW67396814,24,F,Anambra,Self-Employed,67909,True,2024-08-27,Organic
+BRW83CC88C1,33,F,Ogun,Salaried,362016,True,2023-03-30,Agent
+BRW9516D68C,35,M,Borno,Gig Worker,119283,True,2023-04-17,Agent
+BRWA313E67C,55,M,Imo,Self-Employed,107585,True,2022-08-14,Referral
+BRWBC6D4706,23,M,Lagos,Salaried,265124,True,2022-09-27,Organic
+BRWE1859BFF,20,M,Anambra,Gig Worker,127619,False,2023-05-03,Social Media
+BRW82DE9A16,23,F,Imo,Self-Employed,87915,False,2022-07-14,Social Media
+BRWF7E6C023,23,M,Rivers,Gig Worker,134392,True,2022-09-13,Referral
+BRWD8CAAC28,27,F,Imo,Gig Worker,35712,False,2023-05-20,Referral
+BRW47FA421C,49,F,Kaduna,Self-Employed,51079,True,2023-05-20,Agent
+BRWE788AEAC,57,M,Borno,Self-Employed,112019,False,2022-10-14,Social Media
+BRW08B1E8A7,48,F,Enugu,Salaried,355636,False,2022-02-03,Social Media
+BRW1F33B3CB,29,M,Abuja,Gig Worker,42911,True,2023-04-17,Social Media
+BRWE158B4F1,18,F,Kaduna,Gig Worker,69732,True,2024-06-01,Organic
+BRW7BDCEE58,35,F,Kaduna,Salaried,327120,True,2023-05-26,Social Media
+BRWD5CDD15B,30,F,Oyo,Gig Worker,67851,True,2023-08-09,Organic
+BRWCCBA7192,36,F,Borno,Salaried,132360,True,2023-03-19,Agent
+BRW0C789E62,22,M,Borno,Gig Worker,116802,True,2023-03-08,Social Media
+BRW7F05D2B5,64,M,Kaduna,Gig Worker,87765,True,2022-11-04,Organic
+BRW40FEAF87,55,F,Lagos,Salaried,131891,True,2022-09-18,Social Media
+BRWD414FEB4,40,M,Kaduna,Self-Employed,127728,True,2024-08-12,Referral
+BRWD9A44028,27,F,Ogun,Self-Employed,132036,True,2023-08-13,Referral
+BRW9E22FC9A,34,F,Enugu,Unemployed,0,True,2023-04-03,Agent
+BRWBAB939D3,28,F,Edo,Salaried,411199,True,2024-04-07,Agent
+BRW5548AC16,30,F,Abuja,Self-Employed,146108,True,2022-12-18,Organic
+BRWE83A902C,25,F,Delta,Salaried,220232,True,2023-04-01,Referral
+BRWE4B56D59,60,F,Delta,Gig Worker,88280,True,2024-05-24,Organic
+BRWF515A27A,46,F,Katsina,Gig Worker,143265,True,2022-06-20,Social Media
+BRW4801DFDB,20,M,Delta,Unemployed,0,True,2022-03-27,Organic
+BRW2A614C32,39,M,Rivers,Salaried,284391,True,2023-03-30,Referral
+BRWDE35EFD9,21,M,Kaduna,Gig Worker,23744,False,2022-11-30,Agent
+BRWF4EF5007,31,M,Enugu,Gig Worker,142533,True,2024-08-29,Referral
+BRW35B3FEAC,22,F,Plateau,Self-Employed,205425,True,2023-06-21,Referral
+BRW07555F39,34,F,Enugu,Unemployed,0,True,2023-02-27,Organic
+BRWE210C9C4,25,F,Kaduna,Salaried,477564,True,2023-07-02,Organic
+BRW8A45A21B,59,F,Borno,Unemployed,0,True,2022-08-25,Referral
+BRW0CC26802,35,M,Rivers,Salaried,373891,True,2024-01-25,Referral
+BRW525962AA,53,M,Rivers,Salaried,121528,True,2024-03-30,Agent
+BRWA5278636,52,F,Anambra,Gig Worker,57313,True,2023-02-27,Organic
+BRW3B03D2CE,19,F,Ogun,Salaried,137858,True,2023-12-19,Referral
+BRW8E261EED,22,F,Lagos,Salaried,106021,True,2022-04-15,Organic
+BRW45EBCE41,21,M,Kano,Self-Employed,42150,True,2022-08-11,Social Media
+BRW7A424062,25,M,Borno,Gig Worker,68679,True,2022-03-24,Referral
+BRWDD080942,61,M,Anambra,Salaried,486665,True,2022-07-16,Agent
+BRW27C1D6F4,24,M,Borno,Self-Employed,43307,True,2023-01-30,Referral
+BRW8B2D2880,31,M,Katsina,Gig Worker,24392,True,2023-06-18,Referral
+BRW9C2BFB62,23,M,Kaduna,Self-Employed,291976,True,2024-01-16,Organic
+BRWBC47D2ED,60,M,Oyo,Self-Employed,106404,True,2024-06-27,Organic
+BRW65048A8D,42,M,Kano,Unemployed,12732,True,2023-08-22,Organic
+BRW1273EB0C,50,F,Katsina,Salaried,102016,True,2023-09-03,Organic
+BRW69328051,49,M,Ogun,Salaried,342101,True,2024-09-19,Agent
+BRW814466E0,39,M,Anambra,Salaried,417942,True,2022-05-09,Social Media
+BRW2A370025,25,F,Borno,Self-Employed,208990,False,2024-01-21,Organic
+BRW376B371A,44,M,Lagos,Self-Employed,75319,True,2023-03-25,Social Media
+BRW3A95E88E,35,M,Kaduna,Self-Employed,188557,True,2023-04-25,Organic
+BRW8032599F,53,M,Enugu,Unemployed,0,True,2022-09-27,Social Media
+BRW7C43EB67,31,M,Kano,Gig Worker,86316,False,2023-09-27,Agent
+BRWAE473B7D,49,M,Anambra,Salaried,458013,True,2022-07-14,Social Media
+BRWDD8F87F0,33,M,Delta,Self-Employed,200704,True,2022-04-24,Organic
+BRWC5C61973,42,M,Lagos,Salaried,148039,True,2023-05-13,Organic
+BRWCBC3C859,18,F,Anambra,Self-Employed,141868,True,2023-08-28,Organic
+BRW3D70EB89,27,M,Plateau,Self-Employed,58579,True,2023-05-19,Agent
+BRW5BCF293F,53,M,Anambra,Self-Employed,207488,True,2024-06-30,Social Media
+BRWB8584338,28,F,Anambra,Gig Worker,127956,True,2022-03-14,Referral
+BRWC4B53247,19,M,Katsina,Salaried,352359,True,2023-01-30,Organic
+BRW1454520A,34,F,Anambra,Salaried,407850,True,2023-03-02,Referral
+BRW249A5BD5,49,M,Imo,Self-Employed,216814,True,2022-04-17,Organic
+BRW6CAE74D2,22,F,Anambra,Self-Employed,128476,False,2023-03-30,Agent
+BRW2ED3B49C,58,F,Delta,Self-Employed,125106,True,2023-03-17,Referral
+BRWD92D930D,26,M,Borno,Salaried,366065,True,2024-02-02,Organic
+BRWE32EB5C8,62,M,Lagos,Self-Employed,144094,False,2023-09-03,Organic
+BRW8537F5F4,21,M,Rivers,Gig Worker,20860,True,2022-11-19,Organic
+BRW693D929D,53,F,Anambra,Gig Worker,56170,True,2024-08-06,Social Media
+BRW008BB272,20,M,Kaduna,Self-Employed,80922,False,2022-09-13,Organic
+BRWA4886D93,52,F,Rivers,Salaried,289609,True,2024-01-11,Social Media
+BRWFBE9DE76,32,F,Ogun,Self-Employed,275673,True,2022-04-08,Social Media
+BRW77985A9A,25,M,Borno,Gig Worker,95534,True,2024-02-29,Social Media
+BRW1CCBBD7D,56,F,Edo,Self-Employed,283858,True,2024-02-05,Referral
+BRW2D0E8589,38,F,Lagos,Salaried,487591,True,2022-02-12,Social Media
+BRWDF4DD122,35,M,Lagos,Salaried,445831,True,2023-02-07,Agent
+BRWD349CC45,48,M,Oyo,Self-Employed,63614,True,2022-06-01,Organic
+BRW411F392A,20,M,Oyo,Self-Employed,52926,True,2023-05-29,Social Media
+BRW4EC79FE4,44,F,Enugu,Gig Worker,83035,True,2023-08-09,Organic
+BRW212DC79B,39,M,Oyo,Gig Worker,52275,True,2022-11-28,Referral
+BRWC33C9B0C,36,M,Kaduna,Salaried,296836,True,2022-12-19,Social Media
+BRWAF56C8E8,18,F,Borno,Salaried,263352,True,2022-05-30,Social Media
+BRW09E3D8CF,59,M,Borno,Salaried,439325,True,2022-03-29,Organic
+BRW3C8C8CE8,19,F,Lagos,Unemployed,9839,True,2024-04-03,Organic
+BRWA80C93AC,31,F,Rivers,Salaried,189581,True,2023-06-20,Referral
+BRW090C158E,35,F,Imo,Self-Employed,77053,True,2023-08-20,Agent
+BRWD398D10F,34,M,Borno,Salaried,111514,True,2022-10-05,Organic
+BRW2DB3B4B7,41,F,Imo,Salaried,283761,False,2023-11-07,Social Media
+BRW35F49CCA,20,M,Delta,Salaried,420478,True,2023-12-28,Organic
+BRWCC211992,25,M,Rivers,Gig Worker,89672,True,2023-04-14,Social Media
+BRW93FEF1A8,45,M,Enugu,Salaried,357566,True,2022-06-10,Organic
+BRWFC9A5356,43,M,Anambra,Self-Employed,119253,True,2022-03-05,Referral
+BRWD9198550,56,Unspecified,Anambra,Gig Worker,126805,False,2022-08-19,Organic
+BRW19A4E90E,58,F,Anambra,Gig Worker,31507,False,2023-09-20,Agent
+BRW9A2EF842,43,M,Oyo,Self-Employed,190181,False,2022-12-04,Social Media
+BRW2A66B2A8,21,M,Borno,Gig Worker,96156,True,2022-05-22,Social Media
+BRW64B67748,45,M,Plateau,Self-Employed,75455,False,2022-05-29,Referral
+BRWED1CDD85,35,F,Katsina,Salaried,115554,True,2022-11-22,Referral
+BRW6781A677,21,F,Delta,Salaried,247084,False,2022-11-07,Social Media
+BRW37D7E5A7,60,F,Kano,Gig Worker,142322,True,2022-04-20,Organic
+BRW090EEB9E,18,F,Rivers,Unemployed,0,True,2022-08-25,Referral
+BRW93E71DCE,27,M,Edo,Gig Worker,82469,True,2023-12-31,Referral
+BRW7283C96C,22,M,Rivers,Self-Employed,164216,True,2023-02-23,Referral
+BRW9EEB5CD2,18,M,Imo,Salaried,296554,False,2024-02-15,Organic
+BRW250C2A8C,22,M,Kaduna,Unemployed,19394,False,2024-06-27,Organic
+BRWEEAFD152,29,F,Katsina,Salaried,465525,True,2023-09-19,Agent
+BRW9D34F720,36,F,Borno,Self-Employed,208137,True,2022-04-22,Social Media
+BRW5A2EF648,53,M,Delta,Salaried,208828,False,2022-02-10,Social Media
+BRW5CE53881,33,M,Enugu,Self-Employed,52922,True,2022-11-08,Referral
+BRW1F04335F,25,F,Lagos,Salaried,234360,True,2024-07-14,Organic
+BRW505A202D,53,M,Kano,Self-Employed,229437,True,2024-08-18,Agent
+BRWCAA977D9,35,M,Kano,Self-Employed,124793,True,2024-07-07,Referral
+BRWF2482978,23,M,Imo,Self-Employed,105557,False,2024-03-26,Organic
+BRW36941BF5,47,M,Kaduna,Salaried,450266,True,2023-12-26,Social Media
+BRWDB21DAA4,51,M,Anambra,Self-Employed,288972,True,2024-02-26,Organic
+BRWCBCC51C6,26,M,Edo,Gig Worker,133072,True,2024-02-27,Referral
+BRW89D33F9C,30,F,Oyo,Salaried,482983,True,2022-05-01,Agent
+BRW97265515,62,M,Enugu,Salaried,481287,True,2023-05-26,Social Media
+BRW09F02DDD,18,M,Imo,Gig Worker,51179,True,2023-02-24,Social Media
+BRW9DE2A7E7,38,M,Imo,Salaried,366964,True,2024-04-25,Organic
+BRWF174FAB3,22,M,Edo,Salaried,262986,True,2023-08-15,Referral
+BRWA93BAB4B,25,Unspecified,Kano,Unemployed,0,True,2023-09-18,Referral
+BRW9DB16E8F,44,M,Enugu,Self-Employed,187371,True,2023-01-04,Agent
+BRW63011B91,20,F,Edo,Salaried,273236,True,2023-03-14,Referral
+BRW34B432B4,19,F,Oyo,Self-Employed,71987,True,2023-02-28,Social Media
+BRW0BC08BC5,44,F,Imo,Self-Employed,68652,True,2022-03-31,Social Media
+BRW360BE916,44,F,Kaduna,Unemployed,0,True,2023-08-12,Agent
+BRW1A10059F,27,M,Katsina,Salaried,374982,True,2023-05-20,Referral
+BRW7EBDC24D,57,Unspecified,Lagos,Salaried,232299,True,2023-04-22,Referral
+BRW30FDB55F,20,F,Delta,Gig Worker,124800,True,2022-12-08,Social Media
+BRW0E1AAC17,52,M,Oyo,Salaried,415868,True,2022-03-11,Social Media
+BRW84F61CA7,33,M,Kaduna,Salaried,83214,True,2024-01-12,Social Media
+BRWDABD10C7,62,M,Kaduna,Gig Worker,45430,False,2023-05-06,Agent
+BRW86CE734D,51,M,Enugu,Self-Employed,166221,False,2023-07-04,Agent
+BRWC4D9FC40,31,F,Edo,Gig Worker,141607,True,2023-08-02,Referral
+BRW5E5E3C4F,25,F,Kaduna,Self-Employed,94594,True,2024-06-28,Referral
+BRW7F3533B8,19,M,Delta,Salaried,96343,True,2024-05-12,Organic
+BRW9D728C4B,38,F,Borno,Salaried,141260,True,2024-05-28,Social Media
+BRWBD34DA16,18,F,Kaduna,Self-Employed,170299,True,2024-08-31,Social Media
+BRW1C44D5D7,34,F,Borno,Salaried,276196,True,2022-04-05,Social Media
+BRW86CE965E,18,M,Kaduna,Self-Employed,171086,False,2024-01-21,Agent
+BRWE5DCA157,25,F,Edo,Salaried,483429,False,2023-06-13,Referral
+BRW5F7F0FE7,21,M,Edo,Gig Worker,80210,True,2022-01-05,Social Media
+BRW0CA91807,19,M,Enugu,Gig Worker,134278,False,2022-04-16,Social Media
+BRWF5DBDEE8,42,F,Imo,Salaried,382807,False,2022-11-25,Organic
+BRW0E1073A8,25,M,Abuja,Self-Employed,242581,True,2022-06-11,Organic
+BRWA03B83BF,18,M,Anambra,Self-Employed,174757,True,2022-11-23,Organic
+BRWA29739F5,61,M,Abuja,Gig Worker,95246,True,2024-07-02,Social Media
+BRW0FD12016,31,F,Lagos,Salaried,326801,True,2022-02-25,Organic
+BRW0CB6F060,28,F,Edo,Gig Worker,136821,True,2023-04-02,Referral
+BRWD561C424,25,F,Borno,Gig Worker,113441,True,2024-09-24,Agent
+BRW64B046F5,49,F,Plateau,Self-Employed,64357,True,2022-04-10,Social Media
+BRW9E25FC9E,43,M,Rivers,Gig Worker,81000,True,2024-07-06,Referral
+BRW1995B6E1,59,F,Kaduna,Self-Employed,223399,True,2024-06-22,Social Media
+BRWC8043163,32,M,Enugu,Salaried,139185,False,2022-10-17,Referral
+BRW5504E88B,38,M,Katsina,Salaried,133966,True,2022-11-30,Social Media
+BRW6B103E74,19,M,Delta,Salaried,321683,True,2022-09-07,Social Media
+BRW8E2C2004,63,M,Katsina,Self-Employed,129316,True,2024-03-14,Agent
+BRW4384DE0D,36,M,Imo,Salaried,443925,True,2024-01-28,Agent
+BRW59F55FE7,36,F,Kaduna,Self-Employed,195232,True,2024-04-21,Social Media
+BRW3EF419FB,25,M,Edo,Self-Employed,196830,True,2024-04-19,Social Media
+BRW01322D63,33,M,Kano,Gig Worker,31866,False,2024-07-13,Referral
+BRW4C4CDBFD,52,M,Anambra,Gig Worker,106623,True,2023-09-23,Social Media
+BRW83955C5F,22,M,Borno,Gig Worker,61497,False,2022-11-08,Agent
+BRW3EF29D7F,60,M,Abuja,Gig Worker,139946,True,2023-09-19,Agent
+BRWC8EB15CF,29,M,Plateau,Salaried,234237,True,2022-02-24,Organic
+BRW64609EE6,35,F,Rivers,Unemployed,8594,True,2023-08-28,Social Media
+BRWDB555166,25,M,Rivers,Self-Employed,140024,True,2023-05-02,Organic
+BRW127A6B3F,35,F,Kano,Gig Worker,67223,True,2024-06-12,Referral
+BRWCBA749F0,21,M,Plateau,Salaried,88235,True,2023-03-24,Agent
+BRWBE48E672,21,F,Plateau,Salaried,298028,True,2023-09-11,Agent
+BRWDEE0B8D2,39,F,Enugu,Self-Employed,151181,True,2022-08-20,Organic
+BRWEC70255F,38,F,Katsina,Self-Employed,261984,True,2023-02-25,Agent
+BRWBFE6829D,36,F,Katsina,Salaried,99852,True,2023-08-18,Social Media
+BRW6C467A1F,44,M,Edo,Salaried,463408,False,2024-03-08,Organic
+BRWB98C01E7,33,M,Enugu,Self-Employed,199926,True,2023-11-11,Agent
+BRW38CDA3BF,19,F,Ogun,Self-Employed,249216,True,2022-12-18,Social Media
+BRW2D540F22,18,M,Katsina,Self-Employed,277516,True,2022-12-28,Agent
+BRWFB36233A,51,F,Ogun,Salaried,98521,True,2024-01-15,Referral
+BRW78CC900B,24,M,Lagos,Self-Employed,191556,True,2022-10-26,Referral
+BRWD61419FC,39,M,Abuja,Salaried,123259,False,2022-10-12,Organic
+BRWF1E3B234,39,M,Abuja,Salaried,214718,True,2024-07-20,Social Media
+BRW9D3995D7,21,M,Borno,Self-Employed,251770,True,2023-05-12,Organic
+BRW0A8EA06A,34,F,Ogun,Salaried,124250,False,2022-06-07,Referral
+BRWC899B504,48,M,Enugu,Self-Employed,140444,True,2022-06-21,Organic
+BRW882B7DCE,47,M,Edo,Salaried,416729,True,2022-06-21,Social Media
+BRW48F96B2E,32,F,Anambra,Self-Employed,288578,True,2023-12-01,Referral
+BRW75819E76,32,M,Plateau,Salaried,307925,True,2023-01-27,Referral
+BRW54E0E29D,62,M,Anambra,Gig Worker,25376,True,2024-09-06,Referral
+BRW8E65C6FC,38,M,Oyo,Gig Worker,55728,True,2022-09-19,Referral
+BRW07AECD87,28,M,Imo,Gig Worker,118184,True,2022-07-19,Social Media
+BRW9BC311C5,43,F,Edo,Unemployed,0,True,2023-02-26,Organic
+BRWC5F8B43E,20,F,Oyo,Self-Employed,97518,True,2022-01-25,Referral
+BRW6284CFFF,19,F,Ogun,Self-Employed,274348,True,2023-12-27,Agent
+BRWF6C6D6F4,20,F,Plateau,Self-Employed,138555,True,2024-04-02,Agent
+BRW3DCFB9A4,58,M,Imo,Gig Worker,53205,False,2023-10-17,Social Media
+BRWF17D592C,64,F,Borno,Gig Worker,110730,True,2022-09-21,Organic
+BRWCB3A363C,19,M,Lagos,Gig Worker,70174,True,2024-04-12,Organic
+BRWF7106306,30,M,Delta,Self-Employed,283423,True,2023-05-19,Organic
+BRW42477C2A,34,F,Plateau,Self-Employed,200947,True,2022-09-23,Organic
+BRW274D1E37,19,F,Lagos,Self-Employed,105692,False,2022-06-02,Referral
+BRW32B9B9AF,18,M,Katsina,Salaried,284725,True,2023-02-05,Social Media
+BRWA8C6D5AE,33,M,Katsina,Unemployed,0,True,2024-03-15,Organic
+BRWD50F6B2C,23,F,Enugu,Self-Employed,220685,True,2023-07-03,Agent
+BRWB4185037,27,M,Imo,Gig Worker,72509,True,2023-07-02,Agent
+BRWBC406535,26,F,Imo,Gig Worker,119674,True,2023-07-22,Organic
+BRW5CB313C8,28,M,Abuja,Salaried,444842,True,2023-01-03,Social Media
+BRW0939F16F,57,M,Rivers,Self-Employed,89666,True,2023-08-31,Organic
+BRW4509AB8B,28,M,Anambra,Gig Worker,104332,False,2024-04-11,Social Media
+BRW772190FA,64,M,Katsina,Salaried,109388,True,2022-05-02,Organic
+BRW30625032,41,F,Edo,Self-Employed,286438,True,2024-01-29,Social Media
+BRW2E9D7774,59,M,Lagos,Salaried,154234,True,2024-07-29,Referral
+BRW034CC409,24,M,Lagos,Self-Employed,43765,False,2024-04-20,Referral
+BRW675ABD1D,31,M,Edo,Salaried,389876,True,2023-05-25,Social Media
+BRW32574311,39,M,Borno,Salaried,186242,False,2024-01-26,Referral
+BRW00BB5B24,26,M,Borno,Unemployed,0,True,2022-02-16,Social Media
+BRW7F84A303,26,F,Kano,Salaried,154048,True,2023-07-21,Organic
+BRW24017224,24,M,Edo,Self-Employed,74962,True,2023-01-21,Referral
+BRW48A6CFBC,18,M,Plateau,Self-Employed,41664,True,2023-10-30,Social Media
+BRW880D7BC7,25,F,Katsina,Gig Worker,123840,True,2022-05-27,Referral
+BRW5AFD425F,34,M,Katsina,Self-Employed,285914,True,2022-07-04,Referral
+BRWCB70C613,39,M,Delta,Salaried,490298,True,2022-08-30,Organic
+BRW1970F873,64,F,Anambra,Unemployed,0,True,2023-04-21,Referral
+BRWEB64CCAC,42,M,Kano,Salaried,181564,True,2024-09-18,Agent
+BRWD5B1A75B,33,M,Kaduna,Salaried,102604,True,2023-03-22,Organic
+BRW4FD8E719,39,M,Katsina,Gig Worker,79394,True,2023-07-05,Organic
+BRW9A22D181,50,M,Rivers,Self-Employed,70425,True,2023-08-30,Social Media
+BRW54D51BB2,30,M,Borno,Gig Worker,137751,True,2022-08-22,Organic
+BRW899620ED,47,F,Abuja,Gig Worker,69221,True,2023-05-12,Organic
+BRW0810D48D,30,M,Delta,Salaried,399518,True,2023-04-14,Referral
+BRWFC53F24C,40,M,Ogun,Unemployed,0,True,2022-05-20,Organic
+BRW21437941,31,M,Plateau,Self-Employed,239318,True,2022-06-10,Referral
+BRWC16EC7E5,40,F,Anambra,Self-Employed,84547,False,2022-03-30,Social Media
+BRW696BCC97,34,F,Edo,Gig Worker,48369,True,2022-01-15,Referral
+BRWF40064BD,47,M,Rivers,Salaried,251597,False,2023-08-29,Agent
+BRW2ECC2BE3,59,Unspecified,Lagos,Gig Worker,74758,False,2024-01-22,Referral
+BRW5A817D11,18,F,Katsina,Self-Employed,165637,False,2023-04-09,Social Media
+BRWAA2A20CC,20,F,Rivers,Gig Worker,110853,True,2022-10-30,Organic
+BRWFCF44810,64,M,Katsina,Salaried,430767,True,2023-08-08,Referral
+BRW964B7F9B,18,M,Katsina,Self-Employed,242331,True,2024-03-19,Agent
+BRW35F7E73B,39,F,Abuja,Gig Worker,20178,True,2023-12-09,Social Media
+BRW9DA7EEBB,18,F,Ogun,Self-Employed,110723,True,2024-03-24,Organic
+BRW04E3773D,43,F,Lagos,Self-Employed,128000,True,2024-07-20,Referral
+BRW9BAE99D9,57,M,Lagos,Salaried,271674,True,2022-06-29,Referral
+BRWCC8E1106,45,M,Kaduna,Self-Employed,242788,True,2022-04-27,Referral
+BRW034F01D1,47,F,Rivers,Gig Worker,134180,True,2024-02-19,Organic
+BRW889FD786,27,M,Lagos,Salaried,436634,True,2022-12-20,Social Media
+BRW2DB31150,33,F,Imo,Gig Worker,81625,False,2024-07-10,Organic
+BRW00054F68,39,F,Plateau,Gig Worker,143910,True,2024-07-02,Agent
+BRW8BDF2CFE,20,M,Abuja,Self-Employed,86874,True,2022-10-10,Organic
+BRW0F8511B2,21,M,Imo,Salaried,187089,True,2023-03-03,Agent
+BRWF9324C8E,34,M,Katsina,Salaried,261770,True,2022-10-26,Organic
+BRW88B2049C,18,F,Imo,Gig Worker,129438,True,2023-08-16,Social Media
+BRW549A5868,41,F,Anambra,Salaried,391090,False,2023-04-01,Social Media
+BRW5B902A17,36,M,Oyo,Gig Worker,60172,True,2023-01-16,Agent
+BRW0B30040B,49,M,Kano,Salaried,265137,True,2022-06-14,Referral
+BRW2C2BF0D6,25,F,Kano,Unemployed,28203,True,2022-04-30,Organic
+BRW96FF0CDD,25,M,Rivers,Salaried,216528,True,2022-02-05,Referral
+BRWF81899CD,63,M,Kano,Salaried,315105,True,2022-05-05,Agent
+BRW36D3D7A8,29,F,Plateau,Self-Employed,78111,True,2022-01-05,Agent
+BRW1D21AC11,35,F,Enugu,Self-Employed,209671,False,2024-09-19,Agent
+BRWA5C2E533,63,F,Katsina,Self-Employed,78557,False,2023-03-29,Social Media
+BRW596C0BFB,20,M,Anambra,Self-Employed,50506,True,2022-01-26,Social Media
+BRWC7A91CA2,54,M,Ogun,Self-Employed,64243,True,2023-08-21,Social Media
+BRWD99608F9,50,M,Anambra,Gig Worker,45652,False,2023-11-25,Referral
+BRWD53DE174,20,M,Ogun,Self-Employed,90973,True,2024-08-24,Organic
+BRW07768CF4,42,F,Kaduna,Self-Employed,227685,True,2022-01-13,Organic
+BRW0738B634,27,F,Enugu,Unemployed,0,True,2023-03-02,Referral
+BRW1C2D61CC,25,F,Katsina,Gig Worker,147187,False,2022-05-23,Referral
+BRWA702B614,38,M,Edo,Salaried,238980,True,2022-12-10,Organic
+BRW6C57B69B,62,M,Imo,Gig Worker,31593,False,2023-03-01,Organic
+BRWE0EB9EC6,31,M,Kano,Self-Employed,279828,False,2022-10-24,Social Media
+BRW536B0320,19,F,Enugu,Gig Worker,129390,True,2023-04-20,Organic
+BRWC17823FB,51,F,Edo,Salaried,237375,True,2022-05-08,Referral
+BRW92EBD1DE,57,F,Imo,Self-Employed,168945,True,2022-05-03,Referral
+BRW61E481D9,33,F,Ogun,Unemployed,24624,True,2022-09-22,Referral
+BRWC969B2C7,32,M,Katsina,Gig Worker,35674,True,2024-05-15,Organic
+BRWE343E36E,36,F,Kano,Salaried,321719,True,2022-02-24,Organic
+BRWDF63309D,30,M,Imo,Unemployed,0,False,2023-06-11,Organic
+BRWE1668EA9,40,F,Anambra,Gig Worker,98480,True,2022-11-20,Referral
+BRW83B1E897,43,F,Kaduna,Salaried,439369,True,2023-08-17,Social Media
+BRW31AEB1BF,21,M,Enugu,Salaried,227543,True,2024-08-01,Agent
+BRW064C9086,20,F,Borno,Salaried,195927,False,2023-09-21,Referral
+BRW7AF068E7,61,F,Borno,Gig Worker,113394,True,2023-03-04,Social Media
+BRW2DCFF3CD,19,M,Kaduna,Gig Worker,141033,True,2023-01-07,Organic
+BRW3C05E06F,30,M,Katsina,Unemployed,22141,True,2024-02-02,Referral
+BRWC5728E55,23,F,Oyo,Gig Worker,38659,True,2022-05-14,Agent
+BRW941D8584,30,M,Borno,Gig Worker,34643,True,2023-03-18,Organic
+BRW043327BE,20,F,Enugu,Gig Worker,87302,True,2022-09-17,Organic
+BRWEB0E74FB,25,F,Plateau,Salaried,130595,True,2023-08-25,Agent
+BRW55881C48,22,M,Katsina,Self-Employed,63797,False,2024-08-29,Social Media
+BRWF80B364D,27,F,Rivers,Gig Worker,122341,True,2022-03-11,Organic
+BRW14EEF678,36,F,Oyo,Salaried,193769,True,2024-02-12,Social Media
+BRWBE8CB140,63,F,Edo,Salaried,192205,True,2023-01-11,Referral
+BRWBC49BFE5,22,M,Kaduna,Gig Worker,34067,False,2023-03-11,Organic
+BRWE3C35CE5,23,M,Abuja,Salaried,244773,True,2023-05-23,Referral
+BRWDC5EF207,45,M,Enugu,Self-Employed,50645,True,2022-10-18,Social Media
+BRW7B6D160D,47,M,Anambra,Gig Worker,130243,True,2024-05-25,Social Media
+BRWF4400651,55,M,Imo,Gig Worker,125176,True,2022-01-14,Agent
+BRW40A02E43,32,M,Imo,Salaried,309668,True,2022-05-27,Social Media
+BRW8B3855E1,44,Unspecified,Abuja,Unemployed,29295,True,2022-07-23,Social Media
+BRWAB44C2FB,37,M,Enugu,Unemployed,0,True,2024-01-01,Referral
+BRW6C6F9132,37,F,Delta,Gig Worker,124986,True,2023-11-14,Referral
+BRW3E64F958,29,M,Enugu,Self-Employed,113109,True,2022-09-14,Social Media
+BRW6B8D3C31,23,M,Abuja,Unemployed,0,True,2022-01-28,Agent
+BRW6B3AC8B3,28,M,Ogun,Gig Worker,40019,True,2022-03-20,Referral
+BRW6FCA6567,34,M,Imo,Self-Employed,162164,True,2023-06-01,Organic
+BRWA204540C,27,M,Borno,Gig Worker,91646,True,2023-03-17,Agent
+BRWE526B5CC,20,M,Enugu,Self-Employed,263575,True,2022-07-01,Social Media
+BRW13E8B205,55,M,Delta,Salaried,450178,True,2024-01-03,Social Media
+BRWD7F67C6B,49,F,Imo,Self-Employed,168595,True,2023-04-27,Social Media
+BRW2F47013D,55,M,Ogun,Self-Employed,142599,False,2023-09-24,Referral
+BRW4818B2D6,49,M,Lagos,Salaried,112203,True,2023-01-11,Social Media
+BRWEAA7F816,47,M,Abuja,Salaried,407760,True,2023-01-01,Social Media
+BRW3647B541,19,F,Ogun,Salaried,203009,True,2023-12-06,Organic
+BRWF31FE42A,25,M,Lagos,Salaried,90334,True,2024-06-03,Social Media
+BRW4157557A,33,F,Ogun,Self-Employed,45348,True,2022-11-21,Social Media
+BRWF299FD92,28,M,Katsina,Self-Employed,251897,True,2022-12-11,Social Media
+BRW99EBFC36,52,F,Kaduna,Gig Worker,41840,False,2022-07-26,Social Media
+BRWD9C2AD3F,54,F,Rivers,Gig Worker,130150,True,2022-02-18,Organic
+BRWBB4FC615,36,F,Abuja,Gig Worker,101863,True,2023-08-16,Organic
+BRWC827E2D8,26,M,Rivers,Salaried,358430,True,2022-03-20,Referral
+BRW3BD1F7BA,25,F,Kaduna,Gig Worker,76742,True,2023-02-16,Organic
+BRWA3754E12,33,M,Lagos,Gig Worker,91770,True,2023-06-13,Agent
+BRW652DC397,36,F,Oyo,Salaried,469130,False,2023-06-30,Referral
+BRWC55D377E,55,M,Rivers,Unemployed,23550,True,2022-06-01,Organic
+BRW423ADE4C,48,M,Kaduna,Gig Worker,130640,False,2024-07-22,Organic
+BRWB181AC47,23,M,Kano,Self-Employed,255930,True,2023-09-08,Organic
+BRWDA01300B,23,M,Edo,Salaried,94524,True,2023-05-13,Social Media
+BRW66EE6501,30,M,Oyo,Self-Employed,49700,True,2022-09-22,Referral
+BRWC0082962,24,F,Katsina,Self-Employed,208897,True,2022-01-21,Organic
+BRWAF1A3801,58,F,Plateau,Salaried,236226,False,2024-07-07,Social Media
+BRWEC3E059B,42,F,Rivers,Salaried,459707,True,2024-01-23,Social Media
+BRW804508DE,21,F,Plateau,Gig Worker,96076,True,2023-05-24,Agent
+BRWA2432257,23,M,Ogun,Salaried,244317,True,2024-04-05,Referral
+BRW9B8276C5,23,M,Rivers,Self-Employed,77821,False,2023-03-27,Social Media
+BRW2900730B,55,M,Abuja,Salaried,359691,True,2023-03-10,Social Media
+BRW67210D62,24,F,Kaduna,Salaried,491185,True,2023-01-12,Referral
+BRW947BDDE0,18,F,Borno,Unemployed,0,False,2023-12-09,Agent
+BRW845C0C43,42,M,Katsina,Salaried,281688,True,2024-04-11,Referral
+BRW0D0E0474,34,M,Plateau,Salaried,311946,False,2024-08-07,Agent
+BRWA05C51D2,24,M,Rivers,Salaried,476711,False,2022-06-14,Agent
+BRWBAFC931B,40,F,Borno,Gig Worker,120498,True,2024-06-06,Organic
+BRW429F9FB6,50,M,Edo,Self-Employed,233184,True,2023-03-09,Agent
+BRW1C0E93A8,52,M,Abuja,Gig Worker,111551,True,2023-09-09,Referral
+BRWF6D6FEBF,35,M,Lagos,Salaried,444490,True,2022-07-08,Referral
+BRW55FA8471,50,M,Oyo,Salaried,290062,True,2022-03-26,Organic
+BRWF341BDB6,24,F,Borno,Gig Worker,120611,True,2023-09-01,Referral
+BRW96D6B98D,51,F,Kano,Salaried,330801,True,2023-12-05,Social Media
+BRW72ECA01D,26,M,Kano,Salaried,124249,True,2023-01-22,Agent
+BRW27405451,57,F,Imo,Salaried,92042,True,2022-08-23,Agent
+BRW7654B4EC,63,F,Lagos,Salaried,447662,True,2023-03-16,Referral
+BRW178EF97E,21,M,Katsina,Unemployed,10574,True,2024-03-02,Agent
+BRW720B814B,31,M,Rivers,Gig Worker,35533,True,2024-06-01,Referral
+BRW55057635,24,M,Edo,Gig Worker,70079,True,2022-08-09,Agent
+BRWC0816E4D,25,M,Borno,Gig Worker,74831,True,2022-10-25,Agent
+BRW14CD60CE,23,M,Imo,Self-Employed,105095,True,2022-03-29,Organic
+BRW72073705,21,M,Rivers,Salaried,443343,True,2023-12-27,Social Media
+BRWB74F9A39,38,M,Kaduna,Salaried,372028,False,2023-04-28,Agent
+BRW69A24666,64,F,Lagos,Unemployed,24602,True,2023-09-27,Social Media
+BRWB8F7BE5E,63,F,Anambra,Gig Worker,37332,True,2022-07-03,Organic
+BRWE2AD12C5,33,M,Anambra,Unemployed,0,True,2022-09-24,Organic
+BRW3F9745D1,19,F,Plateau,Salaried,227325,True,2024-07-13,Agent
+BRWEF6311D9,39,M,Delta,Gig Worker,54571,False,2022-11-20,Referral
+BRWBD14DF9C,32,F,Borno,Unemployed,23208,True,2022-07-13,Organic
+BRWBBE75F4F,23,M,Enugu,Salaried,216432,True,2024-07-05,Agent
+BRW4B5FE9C7,19,F,Enugu,Self-Employed,225867,True,2024-05-16,Referral
+BRWE1BB4B19,21,F,Kano,Salaried,186815,False,2024-02-07,Social Media
+BRW0224C91E,24,M,Lagos,Gig Worker,96765,True,2023-08-08,Organic
+BRW8F06CAAB,59,F,Plateau,Salaried,341153,True,2022-10-19,Referral
+BRW5857DA6F,43,F,Abuja,Self-Employed,194753,False,2022-06-07,Organic
+BRW7B81F4D7,31,M,Oyo,Gig Worker,82895,True,2022-01-06,Social Media
+BRWBED48D4F,19,M,Katsina,Self-Employed,158777,False,2024-07-17,Agent
+BRW3262625A,36,F,Oyo,Salaried,105523,True,2022-02-26,Referral
+BRW4BD5FE67,35,M,Kano,Self-Employed,64261,True,2024-02-29,Agent
+BRWCCA5A9B7,20,M,Delta,Gig Worker,41356,True,2024-02-10,Agent
+BRWD0534790,21,F,Plateau,Salaried,306680,True,2023-12-03,Referral
+BRWADB66ABD,27,M,Enugu,Salaried,272653,True,2023-02-02,Social Media
+BRWF4A24AEB,35,M,Kaduna,Self-Employed,238309,True,2023-03-21,Referral
+BRW1C876537,20,M,Rivers,Self-Employed,295137,True,2024-01-01,Organic
+BRW73C4E630,33,M,Enugu,Self-Employed,177541,True,2024-07-17,Referral
+BRW1C46C70D,25,F,Anambra,Unemployed,27423,True,2023-08-06,Organic
+BRW0759C655,19,M,Delta,Salaried,136430,True,2023-11-08,Referral
+BRWF74B7FF7,52,M,Anambra,Self-Employed,193503,True,2024-01-29,Referral
+BRWA785BDB9,22,M,Delta,Salaried,286022,False,2022-11-01,Social Media
+BRWC2D3B3F3,46,F,Oyo,Gig Worker,78975,True,2024-07-29,Agent
+BRW8CDD1D6E,22,Unspecified,Oyo,Salaried,471658,False,2022-04-19,Social Media
+BRW1127F7AD,18,M,Enugu,Self-Employed,43487,True,2023-02-19,Agent
+BRWF6099118,62,M,Edo,Self-Employed,167591,False,2023-01-05,Referral
+BRWAD0D491C,62,M,Kano,Gig Worker,125465,True,2022-07-15,Organic
+BRWF25F244A,18,F,Imo,Unemployed,0,True,2024-05-12,Referral
+BRW6334E4D7,50,F,Kano,Salaried,237767,True,2022-01-23,Organic
+BRW2477432A,58,F,Enugu,Gig Worker,78361,True,2023-04-06,Social Media
+BRW12EAA490,23,M,Kaduna,Self-Employed,258585,True,2023-10-08,Referral
+BRWEBB576E2,30,F,Ogun,Self-Employed,169945,True,2022-10-25,Organic
+BRWB231C1F4,29,F,Imo,Self-Employed,229953,False,2024-06-07,Social Media
+BRW802E58B6,45,F,Anambra,Self-Employed,150625,True,2024-07-03,Referral
+BRW3928F62E,57,F,Kaduna,Salaried,406472,True,2023-03-23,Organic
+BRW05DE587F,25,M,Anambra,Salaried,260275,True,2024-07-19,Referral
+BRW33C58268,59,F,Kano,Gig Worker,113742,False,2024-01-11,Referral
+BRW748B43D2,62,F,Kaduna,Gig Worker,108225,True,2024-03-29,Agent
+BRW67FC6E04,22,F,Imo,Salaried,442124,True,2022-06-27,Organic
+BRW6B9DCC55,38,F,Enugu,Salaried,298095,True,2022-08-03,Social Media
+BRW21778DA6,64,M,Kano,Self-Employed,108369,True,2024-05-30,Agent
+BRWE86F68FA,18,M,Rivers,Salaried,305769,True,2022-08-18,Social Media
+BRW093EE63D,64,M,Plateau,Gig Worker,120843,True,2024-07-06,Organic
+BRW05140CB6,44,M,Lagos,Self-Employed,215501,False,2023-03-25,Referral
+BRW65417050,62,M,Ogun,Gig Worker,147750,True,2024-05-28,Agent
+BRWBAF93D4D,53,M,Abuja,Salaried,135265,False,2024-07-21,Social Media
+BRW6461C230,46,M,Katsina,Gig Worker,119872,False,2022-06-07,Referral
+BRW24269DF0,26,M,Delta,Salaried,185848,True,2022-01-07,Organic
+BRW29821FB6,52,M,Oyo,Salaried,344777,True,2024-02-12,Social Media
+BRWEA1C08F6,40,F,Delta,Salaried,474897,True,2022-05-22,Referral
+BRW03184C73,29,F,Anambra,Self-Employed,160259,True,2023-01-06,Agent
+BRW2026DF63,30,F,Abuja,Gig Worker,114060,True,2022-11-19,Social Media
+BRW31C2EC17,49,F,Imo,Self-Employed,143092,False,2022-06-04,Agent
+BRW94A6BF4A,19,F,Plateau,Self-Employed,227005,True,2022-10-30,Social Media
+BRW1BE52A5F,57,M,Katsina,Gig Worker,134497,True,2022-12-19,Organic
+BRWDF6D5A11,25,M,Delta,Self-Employed,281290,True,2022-07-30,Agent
+BRW8B1BAA67,39,F,Plateau,Self-Employed,155905,True,2023-10-27,Social Media
+BRW716D0CA7,22,M,Delta,Salaried,99383,True,2024-01-28,Agent
+BRW7C46B01C,34,M,Anambra,Self-Employed,96029,True,2022-12-15,Referral
+BRWF2309658,22,M,Oyo,Salaried,497647,True,2024-03-03,Social Media
+BRWE05559F7,30,M,Kaduna,Self-Employed,231885,True,2023-06-04,Social Media
+BRWEE7E7E49,19,M,Ogun,Gig Worker,36351,True,2023-04-10,Social Media
+BRWEE067808,23,F,Plateau,Gig Worker,96230,False,2023-11-13,Social Media
+BRW26773CD6,37,F,Edo,Self-Employed,114589,True,2023-11-20,Organic
+BRW53E5B5F7,28,M,Ogun,Gig Worker,33792,True,2024-03-08,Social Media
+BRW48E6113E,20,M,Abuja,Gig Worker,128584,True,2024-06-28,Organic
+BRWDFD842C0,23,M,Ogun,Salaried,434849,True,2024-03-08,Social Media
+BRWB03A6B26,24,Unspecified,Katsina,Self-Employed,150997,False,2023-05-17,Referral
+BRW050FAB80,29,M,Katsina,Salaried,345177,True,2024-09-18,Referral
+BRW9B394537,55,M,Lagos,Salaried,191485,True,2024-08-24,Social Media
+BRW1A143EAA,59,M,Kaduna,Salaried,294234,True,2022-02-11,Social Media
+BRW4C61FD24,20,M,Enugu,Salaried,276324,True,2022-05-27,Organic
+BRWB631BF3B,37,F,Rivers,Salaried,239993,True,2024-01-28,Social Media
+BRWAF327E82,21,M,Ogun,Salaried,103426,True,2023-04-09,Agent
+BRWF9F76DEA,50,F,Kano,Self-Employed,228752,True,2023-06-01,Referral
+BRWB0B1D685,49,F,Kaduna,Gig Worker,39527,True,2023-10-02,Referral
+BRWC399540D,29,M,Lagos,Salaried,287301,False,2024-06-30,Social Media
+BRW30B0AFB1,24,F,Ogun,Salaried,166829,True,2024-03-01,Referral
+BRW8136CDFF,35,M,Ogun,Salaried,373261,True,2024-02-15,Organic
+BRW2B142B67,36,M,Lagos,Salaried,329474,True,2024-08-16,Social Media
+BRW8110F19C,62,M,Katsina,Salaried,187901,False,2023-08-17,Social Media
+BRW1D6B2038,52,F,Enugu,Self-Employed,145328,False,2022-01-24,Social Media
+BRWAB4094D0,22,M,Oyo,Salaried,356772,True,2024-09-30,Organic
+BRW1E83116F,22,F,Kano,Salaried,213984,True,2023-02-22,Referral
+BRW79516CF4,19,M,Delta,Unemployed,0,True,2022-05-26,Social Media
+BRW6B46B53F,26,F,Lagos,Self-Employed,256987,True,2024-02-10,Social Media
+BRWABAE043E,23,M,Abuja,Self-Employed,172231,True,2022-11-22,Social Media
+BRW0F336377,29,F,Plateau,Self-Employed,146822,False,2022-10-03,Social Media
+BRW4D608A53,37,F,Borno,Salaried,480020,True,2023-08-05,Social Media
+BRWB6816213,20,F,Kano,Self-Employed,93335,True,2022-06-22,Referral
+BRWD8692146,34,F,Lagos,Self-Employed,278942,True,2023-04-21,Agent
+BRW774AEE6F,39,M,Plateau,Gig Worker,41939,False,2022-10-07,Social Media
+BRW2A4380EA,54,F,Rivers,Self-Employed,132122,True,2023-06-07,Organic
+BRWFBE9FF9A,22,M,Delta,Self-Employed,58333,True,2024-04-30,Organic
+BRWA28A6ABF,35,M,Anambra,Salaried,306472,False,2022-11-22,Agent
+BRWE70189CF,61,F,Enugu,Self-Employed,296806,True,2023-11-10,Agent
+BRW35C4960C,26,M,Plateau,Self-Employed,197158,True,2023-10-24,Agent
+BRW3D7BA386,38,F,Delta,Salaried,85021,True,2023-12-15,Referral
+BRWFBBA1F29,49,F,Imo,Self-Employed,246387,True,2022-02-01,Agent
+BRWD0C71CF2,52,M,Edo,Self-Employed,72352,True,2023-09-08,Social Media
+BRWC296A55F,22,Unspecified,Abuja,Gig Worker,111361,True,2024-08-16,Organic
+BRW3786F355,18,M,Plateau,Gig Worker,119407,True,2022-07-16,Organic
+BRW5DAE6F73,39,M,Enugu,Salaried,456338,False,2022-02-07,Organic
+BRW4A81980A,58,M,Edo,Gig Worker,47405,True,2022-04-24,Agent
+BRWDEA816F9,36,M,Katsina,Self-Employed,184647,True,2023-11-30,Referral
+BRW9D48ADEE,22,M,Oyo,Self-Employed,235552,False,2024-05-26,Organic
+BRWF04F7C0D,34,F,Lagos,Gig Worker,45146,False,2023-12-11,Referral
+BRWC44FBADF,39,M,Delta,Gig Worker,135749,True,2024-08-23,Referral
+BRW86EE4732,55,M,Imo,Salaried,293320,True,2023-05-23,Social Media
+BRW655E97E4,48,M,Plateau,Gig Worker,49431,True,2023-04-05,Social Media
+BRWE341CF0C,28,F,Katsina,Salaried,379798,True,2023-12-08,Social Media
+BRW433A2961,19,M,Abuja,Salaried,166235,True,2022-04-10,Organic
+BRWA7A9C95C,30,F,Kaduna,Salaried,497973,False,2022-09-11,Organic
+BRW68688559,23,F,Anambra,Salaried,108538,True,2024-08-24,Organic
+BRW8F5FF180,38,F,Ogun,Self-Employed,65079,True,2024-09-24,Organic
+BRWB1107156,18,M,Kano,Salaried,443522,True,2024-04-01,Social Media
+BRW018CD377,25,M,Lagos,Self-Employed,57246,True,2022-10-29,Referral
+BRW6291CD79,29,M,Ogun,Self-Employed,147769,True,2023-10-01,Organic
+BRWC44D74AE,28,F,Abuja,Gig Worker,135335,True,2024-08-18,Referral
+BRW30352B97,18,M,Abuja,Self-Employed,194091,True,2024-01-01,Organic
+BRW1FE39C21,50,M,Anambra,Salaried,380528,True,2023-03-08,Social Media
+BRW5F44B2D2,39,F,Lagos,Salaried,152180,True,2023-08-22,Social Media
+BRWCB435D29,62,F,Anambra,Gig Worker,60788,True,2022-05-31,Social Media
+BRW6C61104E,38,M,Imo,Salaried,84237,True,2022-02-28,Organic
+BRW84BEA89C,52,M,Rivers,Self-Employed,54314,False,2023-10-18,Agent
+BRW0538FEB3,50,M,Katsina,Salaried,430151,False,2023-09-07,Referral
+BRW9635FE34,55,F,Delta,Self-Employed,127991,True,2022-04-18,Social Media
+BRWD7F81BE3,50,F,Imo,Salaried,195031,True,2022-08-24,Social Media
+BRW945B3F14,23,F,Kaduna,Self-Employed,241417,True,2023-01-20,Organic
+BRW9256AA5A,22,M,Anambra,Unemployed,0,True,2022-10-25,Social Media
+BRW18C72FDF,40,M,Rivers,Unemployed,0,True,2022-08-13,Agent
+BRW63490B56,46,M,Rivers,Salaried,370720,True,2024-05-13,Organic
+BRW07F6ADC0,20,M,Borno,Gig Worker,37988,False,2022-12-13,Agent
+BRWFF191277,25,F,Anambra,Salaried,275218,False,2023-10-01,Agent
+BRWCDB61DC7,56,F,Kano,Salaried,155724,True,2022-07-16,Social Media
+BRW0932FCF5,44,Unspecified,Rivers,Salaried,305202,False,2024-02-21,Referral
+BRWFDAB4AF1,22,M,Rivers,Self-Employed,246985,True,2024-03-25,Organic
+BRW1C42F37D,21,F,Rivers,Self-Employed,193113,True,2024-03-14,Social Media
+BRWED306B94,42,M,Plateau,Salaried,346660,True,2023-06-06,Social Media
+BRW24BCACB5,34,M,Katsina,Salaried,453548,True,2024-09-05,Social Media
+BRW9861B081,24,F,Imo,Self-Employed,281483,True,2022-08-13,Agent
+BRW8DCECDEA,31,M,Plateau,Salaried,194606,True,2022-06-10,Agent
+BRW6BC6178B,28,F,Oyo,Self-Employed,75213,True,2022-12-27,Organic
+BRWABE65617,19,M,Enugu,Self-Employed,128178,True,2023-01-12,Referral
+BRW2E8447CE,25,M,Oyo,Self-Employed,87072,True,2023-01-03,Agent
+BRW52AD3458,25,F,Borno,Self-Employed,183301,True,2022-08-22,Organic
+BRWF93F70D9,19,M,Imo,Salaried,185018,True,2022-11-06,Referral
+BRWFE0F00FE,49,F,Kano,Gig Worker,44987,False,2024-02-10,Referral
+BRW482C3C39,35,M,Edo,Salaried,483741,True,2023-02-18,Agent
+BRWD7ADCE71,53,M,Anambra,Gig Worker,21558,False,2024-09-01,Organic
+BRWBC0AAFE5,29,M,Rivers,Salaried,472763,True,2024-03-15,Social Media
+BRW03A614B5,32,F,Kaduna,Gig Worker,64650,False,2023-03-16,Referral
+BRW3AE67C7D,44,F,Lagos,Salaried,315914,True,2023-08-15,Agent
+BRWE9085B99,25,F,Edo,Gig Worker,85509,True,2022-08-19,Social Media
+BRW9AE64E21,43,F,Oyo,Self-Employed,244116,True,2022-01-24,Social Media
+BRW148BCE67,18,F,Borno,Salaried,253146,True,2023-09-15,Social Media
+BRW315A5EC1,28,M,Anambra,Self-Employed,288694,True,2023-05-02,Organic
+BRW1944F97C,36,M,Kano,Self-Employed,274551,True,2023-07-21,Organic
+BRW2894BFD1,53,M,Abuja,Self-Employed,47035,False,2023-01-31,Organic
+BRW677FBC84,23,M,Kaduna,Gig Worker,29172,True,2022-06-25,Social Media
+BRW412F3F08,58,M,Anambra,Self-Employed,299416,True,2024-01-31,Organic
+BRW70D2D060,61,F,Oyo,Gig Worker,37030,True,2023-12-28,Referral
+BRW5FEB026F,21,F,Anambra,Self-Employed,121346,True,2023-04-15,Organic
+BRW62F6A58C,18,F,Ogun,Salaried,113538,True,2023-06-23,Social Media
+BRWE578A539,36,F,Katsina,Self-Employed,161292,True,2023-10-24,Agent
+BRW11F5D329,31,F,Delta,Gig Worker,113277,True,2024-04-09,Referral
+BRW64E3502F,29,F,Enugu,Salaried,403871,True,2023-11-06,Organic
+BRWCC6763E5,36,M,Plateau,Self-Employed,287906,False,2022-10-08,Agent
+BRWA598B105,34,F,Katsina,Gig Worker,28748,False,2024-07-19,Social Media
+BRW60403FBD,64,M,Abuja,Self-Employed,136660,True,2024-03-09,Social Media
+BRW3FAA5F91,31,M,Lagos,Salaried,345323,True,2023-12-13,Referral
+BRWB5A6F082,31,F,Delta,Salaried,289370,True,2022-09-14,Organic
+BRW25C78C1C,59,M,Enugu,Salaried,472521,True,2023-07-16,Referral
+BRW9E688FA7,45,F,Edo,Self-Employed,163414,True,2024-05-08,Organic
+BRWC66F0B2F,20,F,Kano,Salaried,360312,True,2024-02-21,Organic
+BRW2EECFECD,24,M,Lagos,Self-Employed,86645,False,2023-06-30,Organic
+BRWAEA9419D,44,M,Imo,Gig Worker,126366,True,2024-07-07,Organic
+BRW61BA4650,44,M,Borno,Self-Employed,196815,True,2022-07-26,Agent
+BRW82BA6F49,28,M,Lagos,Salaried,127912,False,2022-12-12,Referral
+BRW9766AD54,43,F,Edo,Salaried,130647,True,2024-01-12,Organic
+BRWEACC6CC2,29,M,Imo,Salaried,251516,True,2022-08-01,Agent
+BRWFFECFCCF,29,M,Kaduna,Self-Employed,100924,True,2022-01-16,Social Media
+BRWC159BAE2,25,M,Imo,Self-Employed,160265,True,2023-10-28,Referral
+BRW69EA929F,19,M,Ogun,Gig Worker,73883,True,2022-04-15,Referral
+BRW3979597B,51,F,Ogun,Unemployed,0,True,2023-10-09,Referral
+BRW783506A5,43,M,Borno,Unemployed,0,False,2022-11-22,Agent
+BRW1D3AE65A,42,F,Ogun,Salaried,89253,True,2023-06-08,Referral
+BRWF9CF00C7,23,M,Lagos,Self-Employed,299098,True,2024-07-07,Organic
+BRW25070E1C,23,F,Lagos,Self-Employed,103844,True,2023-05-26,Organic
+BRWD1211884,21,M,Katsina,Salaried,99874,True,2024-08-26,Social Media
+BRW7681EE57,56,F,Borno,Salaried,246481,True,2024-03-21,Agent
+BRWD4A6AD8B,41,M,Katsina,Salaried,92422,True,2022-09-06,Organic
+BRW92BDB30A,19,F,Rivers,Unemployed,13137,True,2023-01-26,Social Media
+BRW960292FB,22,F,Abuja,Self-Employed,56938,False,2022-02-23,Referral
+BRWCB048642,21,M,Anambra,Salaried,128108,False,2024-08-12,Organic
+BRW32D71092,33,M,Katsina,Self-Employed,162440,True,2023-03-11,Organic
+BRW9962A4B6,24,F,Rivers,Salaried,315023,True,2024-03-11,Social Media
+BRWC46262AF,61,M,Enugu,Self-Employed,139016,True,2023-09-17,Referral
+BRW56B1DA1F,48,M,Borno,Gig Worker,124013,True,2024-05-24,Organic
+BRWF313BA95,58,M,Katsina,Salaried,361646,True,2023-01-25,Social Media
+BRWEEA3BAB4,31,M,Kaduna,Self-Employed,198865,True,2023-04-26,Organic
+BRW7D44CCAF,59,F,Kaduna,Salaried,342510,True,2024-08-05,Social Media
+BRW2D9D9F32,29,M,Imo,Gig Worker,70336,False,2022-03-14,Social Media
+BRWF9F8306F,18,M,Borno,Unemployed,17609,True,2022-09-19,Referral
+BRW45AE5426,48,M,Katsina,Salaried,451787,True,2022-03-01,Referral
+BRW39B63AC7,60,M,Plateau,Gig Worker,51765,True,2023-10-09,Referral
+BRWF0FDF26B,18,M,Enugu,Gig Worker,39383,False,2022-05-31,Organic
+BRW9C457ED2,38,F,Imo,Unemployed,0,True,2023-01-29,Social Media
+BRWDE0AB6D2,37,F,Kano,Unemployed,21991,False,2022-09-16,Referral
+BRWB5C55333,33,M,Oyo,Self-Employed,272430,True,2024-02-10,Agent
+BRW2027AB37,46,F,Borno,Salaried,413541,True,2022-05-27,Organic
+BRW7B3EC739,23,M,Kano,Gig Worker,111620,True,2022-01-02,Organic
+BRWB3C3A7F5,49,F,Katsina,Self-Employed,149272,True,2022-06-30,Social Media
+BRW3DCFACF9,45,M,Abuja,Salaried,175412,True,2024-04-13,Organic
+BRWC2ED3DC5,23,F,Oyo,Gig Worker,126060,False,2024-06-11,Social Media
+BRW4E65683C,39,F,Abuja,Self-Employed,267635,True,2023-01-22,Organic
+BRWDD60D379,19,M,Imo,Salaried,203092,True,2022-01-10,Organic
+BRW8367EEC5,48,F,Lagos,Salaried,385369,True,2023-06-19,Referral
+BRW6E6E5513,28,F,Plateau,Self-Employed,292197,True,2024-02-15,Social Media
+BRWD5CCD4D8,30,M,Kaduna,Self-Employed,273348,True,2024-08-21,Social Media
+BRW29B47EDF,29,M,Kaduna,Self-Employed,295670,True,2022-01-04,Social Media
+BRW50DF0916,44,F,Lagos,Gig Worker,136388,True,2024-06-08,Social Media
+BRW3BFD5102,61,M,Ogun,Gig Worker,52576,True,2024-06-09,Social Media
+BRW99290C01,29,F,Edo,Salaried,414534,True,2023-10-11,Social Media
+BRW1EF863BC,19,F,Rivers,Gig Worker,62667,True,2023-02-14,Referral
+BRWDBD6E423,51,Unspecified,Edo,Salaried,329625,True,2022-04-13,Referral
+BRW704D826A,25,F,Plateau,Salaried,155057,True,2024-05-27,Referral
+BRW363A0C55,18,M,Imo,Self-Employed,62830,False,2024-06-14,Social Media
+BRW864E4C03,58,M,Rivers,Unemployed,20799,True,2024-08-24,Referral
+BRW808004E8,20,M,Plateau,Self-Employed,227633,False,2024-07-13,Social Media
+BRW82724B1A,25,M,Plateau,Gig Worker,107285,True,2023-11-13,Organic
+BRW50A7B11A,34,F,Kaduna,Gig Worker,31854,False,2024-08-12,Social Media
+BRW8C6B6279,59,M,Katsina,Salaried,259949,True,2024-01-13,Social Media
+BRW4ABC067B,41,M,Rivers,Self-Employed,264432,True,2022-04-29,Organic
+BRWEEA8E37F,20,F,Katsina,Salaried,390483,False,2023-08-10,Social Media
+BRWBEEAC8FF,55,M,Ogun,Unemployed,23904,True,2024-05-17,Social Media
+BRWCB7FC80A,30,F,Borno,Gig Worker,124532,True,2023-11-11,Referral
+BRW9C60DE5E,23,F,Kaduna,Self-Employed,181110,True,2024-08-23,Organic
+BRW5E424B2F,23,F,Kano,Gig Worker,39323,True,2024-05-19,Referral
+BRW98424257,45,M,Katsina,Self-Employed,120974,True,2024-05-18,Referral
+BRW8F6613F6,32,M,Delta,Gig Worker,84883,True,2024-04-09,Social Media
+BRW1549615F,53,F,Rivers,Salaried,464123,True,2022-02-23,Agent
+BRW3F420BF5,49,M,Edo,Gig Worker,115341,True,2024-05-18,Organic
+BRW797DA082,18,F,Kaduna,Self-Employed,150739,True,2023-02-05,Organic
+BRW876A4661,46,F,Anambra,Salaried,182284,True,2022-05-15,Social Media
+BRW899A9317,51,F,Katsina,Gig Worker,27094,True,2023-11-02,Organic
+BRW67679E56,21,F,Rivers,Gig Worker,58152,True,2024-02-06,Organic
+BRW5AA36A11,41,F,Imo,Self-Employed,264432,True,2024-05-29,Organic
+BRWAA604766,61,M,Lagos,Self-Employed,260636,True,2024-09-24,Social Media
+BRWF41779E4,61,F,Ogun,Salaried,350236,True,2022-06-02,Referral
+BRWBFE1EE5A,29,M,Oyo,Salaried,206277,True,2024-09-04,Organic
+BRW532AF702,47,F,Imo,Gig Worker,149913,True,2023-04-20,Agent
+BRW74DE4847,41,M,Lagos,Salaried,422462,True,2022-03-26,Organic
+BRW96D744A9,40,F,Ogun,Unemployed,0,True,2023-12-12,Referral
+BRWFF5AD29F,51,Unspecified,Katsina,Salaried,333855,True,2023-08-09,Organic
+BRWB9939734,26,F,Kano,Gig Worker,133011,True,2023-12-19,Organic
+BRWE970998E,35,M,Abuja,Self-Employed,252912,True,2023-08-22,Social Media
+BRW0555B346,52,F,Imo,Gig Worker,118763,False,2022-07-05,Agent
+BRW7966DB73,44,F,Abuja,Salaried,314478,True,2023-08-12,Organic
+BRW99BD9FCF,22,F,Abuja,Self-Employed,263202,False,2023-06-03,Organic
+BRW8D8320EE,62,M,Oyo,Salaried,425065,True,2024-08-26,Social Media
+BRW6BFB7229,50,M,Enugu,Gig Worker,78316,True,2023-06-20,Agent
+BRWF1A680CF,64,M,Abuja,Self-Employed,173848,True,2022-02-15,Organic
+BRW106C7A40,22,F,Ogun,Salaried,192833,True,2023-08-29,Social Media
+BRW92FE81F5,21,M,Oyo,Self-Employed,59492,True,2024-07-14,Organic
+BRW84A77595,31,F,Anambra,Unemployed,0,True,2023-10-07,Referral
+BRWABC260AA,64,F,Ogun,Gig Worker,45248,True,2024-04-20,Social Media
+BRWD8C1966C,22,Unspecified,Delta,Gig Worker,61465,True,2024-09-14,Referral
+BRWDA028530,19,F,Delta,Salaried,137666,True,2023-10-18,Organic
+BRWF0C5A363,58,F,Rivers,Gig Worker,39179,True,2022-04-11,Social Media
+BRWADC382E1,62,F,Abuja,Self-Employed,67525,True,2024-01-16,Agent
+BRW20076FEA,37,M,Katsina,Gig Worker,32522,True,2022-10-16,Social Media
+BRWB8EF4D5C,38,M,Borno,Gig Worker,42380,True,2022-12-20,Referral
+BRW73BAAC30,43,F,Edo,Gig Worker,92308,True,2023-08-30,Organic
+BRW1698E021,18,F,Kano,Self-Employed,80761,True,2024-01-24,Organic
+BRWBAF49FAF,59,F,Rivers,Self-Employed,137032,True,2023-03-05,Referral
+BRWC4845291,22,M,Delta,Unemployed,0,True,2024-01-06,Agent
+BRW5C70C6E7,52,F,Delta,Salaried,125582,True,2024-05-15,Organic
+BRWC6A1A3B8,19,M,Ogun,Gig Worker,143845,True,2024-02-01,Organic
+BRWA2D789E4,60,F,Delta,Gig Worker,21401,True,2024-08-12,Referral
+BRW4CE0BB6A,32,F,Katsina,Self-Employed,217412,True,2022-01-15,Referral
+BRWA06FC435,59,M,Anambra,Gig Worker,113606,True,2022-09-08,Agent
+BRW4DDF47CD,42,M,Enugu,Unemployed,22305,False,2023-11-22,Agent
+BRW7A1B3D4D,49,F,Anambra,Unemployed,0,True,2022-02-22,Social Media
+BRWEE675AA6,28,M,Imo,Self-Employed,69683,True,2023-07-07,Agent
+BRWF172C271,55,M,Rivers,Salaried,333296,True,2023-10-09,Social Media
+BRW96D8BAD6,23,M,Plateau,Salaried,417103,True,2023-04-20,Agent
+BRWBF86B92A,54,F,Kaduna,Salaried,83088,True,2022-04-20,Organic
+BRW20DE90D6,57,M,Delta,Salaried,265877,True,2022-03-28,Social Media
+BRW4417A80B,58,M,Kano,Self-Employed,279366,True,2022-09-14,Organic
+BRWFC0CAB80,29,F,Anambra,Salaried,304574,True,2022-04-22,Agent
+BRW770753B9,41,M,Delta,Self-Employed,76667,True,2024-06-23,Agent
+BRWD241E220,22,M,Delta,Salaried,101105,True,2024-07-11,Organic
+BRWF875109F,42,M,Enugu,Unemployed,26798,True,2024-03-30,Referral
+BRW3EC23C57,21,F,Anambra,Gig Worker,122280,True,2024-01-30,Referral
+BRWC55495DC,28,F,Kano,Salaried,136559,True,2023-05-28,Organic
+BRWA2411C4D,43,M,Ogun,Salaried,259380,True,2023-03-21,Social Media
+BRW3AA751EB,25,M,Kano,Salaried,304894,True,2022-07-11,Organic
+BRW22EC6FAD,49,M,Edo,Gig Worker,111875,True,2023-05-01,Referral
+BRW0AA4A0C2,52,F,Rivers,Gig Worker,85841,False,2023-08-29,Referral
+BRW4ECA7E6F,21,M,Rivers,Salaried,290387,False,2023-03-13,Organic
+BRW2685BC20,23,M,Oyo,Gig Worker,69853,True,2024-09-30,Organic
+BRWF22CFE23,26,M,Lagos,Self-Employed,173657,True,2022-10-03,Social Media
+BRW829ACFA5,61,M,Lagos,Gig Worker,52370,True,2022-01-01,Organic
+BRWF3D0A926,47,M,Ogun,Salaried,327494,True,2022-07-09,Organic
+BRW88B6952D,32,M,Lagos,Salaried,138473,True,2024-02-28,Agent
+BRW30CE3D2C,26,F,Ogun,Gig Worker,67367,True,2023-01-16,Organic
+BRW8A56FCE0,24,F,Kano,Self-Employed,62867,True,2023-09-09,Organic
+BRW3317D3A2,37,M,Enugu,Unemployed,26441,False,2022-03-18,Agent
+BRW5EC555C5,39,Unspecified,Rivers,Salaried,328616,True,2022-06-07,Organic
+BRW6D355D91,22,F,Borno,Self-Employed,106198,False,2024-07-17,Social Media
+BRWEF2EE012,27,F,Plateau,Self-Employed,205115,True,2023-05-10,Social Media
+BRW82CABA04,60,M,Oyo,Self-Employed,45734,True,2022-05-13,Organic
+BRWD7FBFDAB,62,M,Edo,Salaried,443752,True,2023-12-03,Social Media
+BRW97DB0662,33,F,Delta,Salaried,309504,True,2023-02-04,Social Media
+BRWCEAACD94,24,F,Ogun,Salaried,163887,True,2024-06-19,Agent
+BRWEB31A550,33,M,Oyo,Self-Employed,228895,False,2022-10-31,Referral
+BRW49033124,35,M,Oyo,Salaried,103914,True,2022-06-01,Agent
+BRW50BF1DCD,24,M,Rivers,Salaried,494513,False,2022-08-04,Social Media
+BRW4B6F5354,18,Unspecified,Kaduna,Salaried,397277,True,2023-12-24,Agent
+BRW583B3B12,24,M,Lagos,Salaried,400592,True,2022-01-11,Referral
+BRW9ABBD375,23,M,Imo,Unemployed,0,False,2024-03-07,Agent
+BRW03F32251,37,M,Imo,Gig Worker,110192,True,2023-10-04,Referral
+BRW6207861D,35,M,Rivers,Gig Worker,48919,True,2024-04-07,Agent
+BRW398A7208,29,F,Kaduna,Self-Employed,231315,True,2023-05-06,Organic
+BRWDDBF04A7,22,M,Enugu,Salaried,172332,False,2022-07-04,Referral
+BRW477555B6,18,F,Imo,Salaried,173183,True,2022-03-13,Organic
+BRWF6F0AD39,30,Unspecified,Abuja,Self-Employed,209114,True,2022-05-21,Referral
+BRWA372C71B,52,M,Abuja,Self-Employed,139057,False,2024-02-21,Referral
+BRWE2B0BD58,60,M,Kano,Salaried,483763,False,2023-09-07,Organic
+BRWA2514244,62,F,Edo,Unemployed,0,True,2022-07-27,Organic
+BRWF769B098,48,M,Kaduna,Gig Worker,126884,True,2022-09-07,Organic
+BRWF44E2873,44,M,Lagos,Self-Employed,72263,True,2022-10-31,Organic
+BRWD822B08E,57,F,Lagos,Self-Employed,40317,True,2023-01-30,Organic
+BRWE6822A98,41,M,Plateau,Salaried,438831,True,2024-07-12,Organic
+BRWADFD542D,22,F,Oyo,Salaried,133339,True,2023-09-23,Social Media
+BRWAA46E4F9,27,F,Kano,Unemployed,7778,True,2022-12-09,Social Media
+BRW438BB5B6,43,F,Ogun,Salaried,429843,True,2022-12-23,Agent
+BRW711953F8,24,F,Borno,Self-Employed,136760,False,2024-03-28,Organic
+BRW88DD62E7,18,M,Kano,Unemployed,9870,True,2024-01-09,Referral
+BRWD9EBE07B,63,F,Katsina,Gig Worker,34832,True,2022-04-03,Social Media
+BRWEE9A85E1,21,M,Delta,Gig Worker,66217,True,2024-09-23,Social Media
+BRWA1071556,51,F,Delta,Salaried,422860,True,2023-05-25,Social Media
+BRW1C6CC151,33,M,Ogun,Self-Employed,100323,True,2023-06-24,Social Media
+BRWADFD271E,44,M,Kaduna,Gig Worker,112155,True,2024-05-21,Organic
+BRW4C8DE8D5,35,M,Edo,Unemployed,0,False,2024-03-08,Referral
+BRWB8ADFE9F,25,Unspecified,Plateau,Salaried,369145,True,2022-08-04,Referral
+BRW253A2C28,19,F,Delta,Salaried,444789,True,2023-12-14,Agent
+BRW991DF61B,28,F,Enugu,Gig Worker,106867,False,2024-06-10,Organic
+BRWAE92421C,21,M,Ogun,Salaried,208474,False,2023-03-03,Organic
+BRWB4A59541,22,M,Oyo,Gig Worker,118055,True,2024-01-10,Social Media
+BRWF24A3AD9,50,M,Lagos,Gig Worker,57587,False,2022-02-02,Referral
+BRWD017ED15,22,F,Imo,Salaried,287822,False,2023-04-11,Social Media
+BRW477F3D6F,53,M,Plateau,Unemployed,0,True,2024-09-23,Organic
+BRWFB386BCB,28,F,Rivers,Unemployed,0,True,2024-04-22,Referral
+BRWF9A2D565,35,F,Enugu,Gig Worker,127027,True,2023-10-20,Social Media
+BRW5B8F2107,28,F,Rivers,Salaried,274761,True,2022-04-17,Organic
+BRWB11212F3,38,M,Kano,Gig Worker,23676,True,2022-03-08,Organic
+BRWEAB76D79,18,F,Lagos,Unemployed,0,True,2022-03-29,Agent
+BRWC97CEFB6,35,M,Lagos,Self-Employed,247152,True,2024-08-24,Social Media
+BRWA230E134,63,M,Rivers,Gig Worker,145663,True,2023-02-05,Referral
+BRW90850E23,63,M,Plateau,Gig Worker,32763,True,2022-04-14,Social Media
+BRW1578D605,49,M,Ogun,Salaried,497369,False,2022-02-08,Organic
+BRW33D9CB9A,21,F,Katsina,Self-Employed,272050,True,2022-08-09,Referral
+BRWD943817D,41,Unspecified,Anambra,Gig Worker,41108,True,2024-01-17,Referral
+BRW42E61B33,34,F,Kaduna,Gig Worker,78652,True,2023-10-01,Agent
+BRW5B253046,30,F,Rivers,Gig Worker,121472,True,2023-09-18,Referral
+BRWB26A1B38,62,M,Lagos,Self-Employed,170422,True,2024-06-10,Social Media
+BRWA557F070,56,M,Abuja,Gig Worker,137327,True,2022-06-23,Agent
+BRW67D369CA,22,M,Abuja,Salaried,270488,True,2024-03-01,Social Media
+BRW35B6FA0C,64,M,Abuja,Unemployed,19484,False,2023-05-15,Organic
+BRW00A464DA,55,F,Imo,Self-Employed,264657,True,2023-01-11,Social Media
+BRW6D1CA68B,39,F,Anambra,Salaried,123773,True,2024-06-17,Agent
+BRW8209E1B1,43,M,Borno,Self-Employed,208785,True,2024-04-20,Social Media
+BRWDDC6A194,21,M,Delta,Salaried,277038,False,2022-08-17,Social Media
+BRWEF9108D6,31,M,Anambra,Salaried,324254,False,2023-04-22,Organic
+BRW5D3EC4C0,22,F,Rivers,Salaried,288113,True,2022-03-08,Social Media
+BRW787B48B3,64,F,Abuja,Self-Employed,224101,True,2022-02-09,Social Media
+BRWE19C2FAC,61,M,Lagos,Salaried,191919,False,2024-03-03,Social Media
+BRW410B39AA,60,Unspecified,Rivers,Self-Employed,152750,True,2024-06-07,Organic
+BRW2F85F2AC,48,F,Abuja,Self-Employed,106078,True,2022-10-08,Social Media
+BRW1BE87225,25,M,Rivers,Gig Worker,134201,True,2022-09-23,Organic
+BRWE1A7DB82,19,M,Borno,Gig Worker,76168,True,2022-07-23,Social Media
+BRWADFA8EE3,30,F,Katsina,Self-Employed,220572,True,2024-07-23,Referral
+BRW489AE0C6,28,F,Rivers,Salaried,490555,True,2023-11-15,Social Media
+BRW7F38B429,21,F,Katsina,Gig Worker,127938,False,2024-01-21,Social Media
+BRWB7797C0F,21,M,Kaduna,Self-Employed,78662,True,2024-09-20,Referral
+BRW5D8A78C3,24,M,Edo,Gig Worker,149530,False,2023-10-12,Social Media
+BRWD3AB1A34,62,F,Rivers,Salaried,194621,True,2023-07-14,Referral
+BRW28892596,38,F,Imo,Salaried,189976,True,2022-01-15,Social Media
+BRW3CE217D1,27,M,Edo,Salaried,240938,True,2023-05-27,Referral
+BRWDAC615B2,31,F,Delta,Self-Employed,132330,True,2024-02-23,Social Media
+BRW575E9C6B,60,M,Ogun,Self-Employed,137811,True,2023-03-23,Social Media
+BRW28B774EF,54,F,Katsina,Gig Worker,77343,True,2024-08-05,Agent
+BRWFFF3B63B,20,M,Lagos,Salaried,134427,True,2023-02-26,Organic
+BRW69670626,48,M,Enugu,Self-Employed,182798,True,2024-04-05,Organic
+BRW3863EA2E,25,F,Anambra,Self-Employed,98426,True,2022-07-20,Agent
+BRWC567D9D4,61,F,Delta,Self-Employed,248077,False,2023-10-23,Referral
+BRWABA83A8D,47,F,Anambra,Salaried,276421,True,2024-06-19,Referral
+BRWF57DF4C9,25,M,Plateau,Unemployed,18589,True,2022-01-16,Organic
+BRW09DFB256,50,F,Ogun,Gig Worker,88021,True,2022-06-24,Agent
+BRW8B68AABC,64,M,Imo,Salaried,285186,True,2022-02-22,Referral
+BRWFEE98D34,36,M,Katsina,Salaried,413590,True,2024-07-14,Social Media
+BRWED5A5239,21,F,Anambra,Salaried,452257,True,2023-08-14,Referral
+BRWA1B8BE8D,54,F,Kano,Self-Employed,108217,False,2022-07-28,Organic
+BRW78FF52AF,18,F,Lagos,Salaried,483718,True,2023-07-11,Agent
+BRW88FC2D4F,19,F,Enugu,Self-Employed,234599,True,2024-03-07,Social Media
+BRW4A749CAB,24,M,Edo,Gig Worker,58918,True,2024-03-09,Referral
+BRW64C67923,28,M,Plateau,Salaried,107131,True,2022-01-24,Referral
+BRW2F11AC72,36,F,Abuja,Salaried,320715,True,2022-10-17,Organic
+BRW8EAC45E0,22,F,Rivers,Salaried,269476,True,2023-05-18,Referral
+BRW37A9C713,29,M,Imo,Self-Employed,204018,True,2024-06-30,Social Media
+BRW39D33693,58,M,Plateau,Gig Worker,43567,True,2023-08-04,Referral
+BRW4D8122BA,55,Unspecified,Enugu,Salaried,259731,False,2023-09-07,Social Media
+BRWCBFCD8BB,21,M,Ogun,Gig Worker,141449,True,2022-01-24,Social Media
+BRW61BD4CCA,48,M,Rivers,Salaried,271307,True,2022-05-22,Organic
+BRW669515FC,46,M,Abuja,Unemployed,0,True,2023-07-19,Referral
+BRW7770005A,31,M,Delta,Gig Worker,77155,False,2022-09-14,Organic
+BRW0112CA4A,44,F,Abuja,Gig Worker,56842,True,2024-02-24,Social Media
+BRW428489D1,22,M,Plateau,Salaried,458567,True,2023-09-03,Referral
+BRWEBF7F52C,52,M,Rivers,Self-Employed,199198,True,2023-01-18,Agent
+BRW37BF81FB,52,M,Anambra,Self-Employed,273163,True,2023-02-24,Organic
+BRW902106B1,53,M,Delta,Self-Employed,293007,True,2022-07-04,Referral
+BRW887A22E2,30,M,Imo,Salaried,208617,True,2022-05-29,Referral
+BRW3157972B,21,F,Rivers,Salaried,85715,True,2024-03-25,Social Media
+BRWEB4938FD,23,F,Anambra,Salaried,228695,True,2023-07-29,Organic
+BRW155D9B84,38,F,Ogun,Gig Worker,132710,False,2023-03-08,Referral
+BRWD3F71CE8,30,M,Borno,Gig Worker,45971,True,2022-02-17,Agent
+BRWC73AB1C2,30,F,Ogun,Salaried,169726,True,2023-08-14,Organic
+BRWC630F2FF,18,Unspecified,Plateau,Gig Worker,95465,True,2022-05-15,Referral
+BRWADE4DF55,29,M,Kaduna,Gig Worker,140328,True,2022-03-13,Social Media
+BRW5A216166,53,M,Borno,Self-Employed,118904,True,2022-03-23,Social Media
+BRW2401DCB5,25,M,Enugu,Self-Employed,143108,True,2023-10-19,Agent
+BRWFB4D804F,21,M,Rivers,Self-Employed,201998,True,2022-01-11,Organic
+BRW7937F7AC,64,M,Kano,Gig Worker,114929,True,2024-01-12,Agent
+BRW2E21A47A,28,F,Oyo,Unemployed,5161,False,2022-02-14,Organic
+BRW292464D4,61,F,Borno,Salaried,252663,True,2022-10-04,Referral
+BRWA63B1329,59,M,Edo,Self-Employed,71431,True,2023-08-22,Agent
+BRW6A80526A,62,F,Anambra,Self-Employed,157120,True,2023-08-15,Social Media
+BRW5CDCCAE8,32,F,Rivers,Salaried,485087,True,2024-02-24,Organic
+BRWB2DA797A,20,M,Imo,Self-Employed,268818,True,2022-07-30,Referral
+BRWFFCC6028,19,M,Rivers,Self-Employed,95699,True,2023-01-30,Organic
+BRW5B381B88,20,F,Anambra,Salaried,389604,False,2024-02-18,Agent
+BRWCCE2F350,45,M,Plateau,Gig Worker,131123,True,2024-07-27,Social Media
+BRW43B66A35,63,M,Delta,Gig Worker,87300,True,2022-10-12,Social Media
+BRW372F3015,43,M,Plateau,Unemployed,23915,True,2022-04-23,Organic
+BRW4F7C0D1C,57,M,Anambra,Salaried,94987,True,2022-09-29,Organic
+BRW06825D3B,35,M,Anambra,Self-Employed,95591,True,2022-12-08,Organic
+BRW4E4735B9,24,M,Plateau,Salaried,420064,True,2022-10-29,Organic
+BRWE2A754F6,22,M,Delta,Salaried,398477,True,2022-02-21,Referral
+BRW6831DBBD,62,F,Ogun,Salaried,107859,True,2022-03-09,Social Media
+BRWD78C2D59,24,F,Delta,Gig Worker,111686,True,2022-08-14,Referral
+BRWF407A476,56,M,Rivers,Salaried,187848,True,2022-10-22,Referral
+BRW88F3BA4D,25,M,Katsina,Salaried,177034,True,2024-01-27,Social Media
+BRW4B00209E,58,F,Kano,Salaried,245209,True,2024-07-10,Social Media
+BRWC91814FF,62,M,Kano,Gig Worker,76088,False,2024-06-21,Organic
+BRWF6BBC409,43,M,Enugu,Gig Worker,97857,True,2023-05-16,Agent
+BRW135E790F,32,F,Oyo,Salaried,89117,False,2023-06-22,Social Media
+BRW4FB7FA03,48,M,Katsina,Gig Worker,33106,True,2023-05-18,Referral
+BRW86A0645B,64,M,Enugu,Salaried,335062,True,2022-12-28,Social Media
+BRWE7797FD7,26,F,Plateau,Self-Employed,214047,False,2023-05-11,Organic
+BRW17712F38,43,M,Delta,Gig Worker,22716,False,2023-11-07,Agent
+BRWA3597CAD,27,F,Delta,Salaried,382820,True,2024-02-02,Organic
+BRW10404403,59,F,Plateau,Self-Employed,68293,True,2023-07-12,Agent
+BRWB665D808,31,F,Kaduna,Unemployed,0,False,2023-02-05,Social Media
+BRW2054A051,61,M,Anambra,Salaried,179914,True,2024-05-04,Referral
+BRWCFBD5EBF,30,F,Kaduna,Self-Employed,293795,True,2024-09-19,Organic
+BRWC62D8D7D,60,M,Oyo,Salaried,436999,True,2023-11-12,Organic
+BRW33DA6295,32,M,Lagos,Salaried,234521,True,2024-04-25,Social Media
+BRW057F5762,19,M,Edo,Salaried,305613,True,2022-09-15,Organic
+BRW867FBA7B,56,F,Borno,Gig Worker,85797,True,2024-09-03,Organic
+BRW50F04656,24,F,Oyo,Unemployed,0,True,2023-04-30,Agent
+BRW8545E607,24,M,Plateau,Gig Worker,70625,True,2022-09-25,Agent
+BRW6F25B65B,38,F,Kaduna,Salaried,308493,True,2022-05-23,Referral
+BRWD4CE78DA,23,M,Oyo,Salaried,370604,True,2023-08-04,Agent
+BRW987B1F2D,31,F,Delta,Salaried,490205,True,2023-06-24,Social Media
+BRWFED9DCEF,25,M,Enugu,Unemployed,0,True,2023-02-25,Social Media
+BRW84036DB1,59,M,Borno,Salaried,482008,True,2024-07-17,Social Media
+BRW364CAD06,24,F,Plateau,Self-Employed,73364,True,2022-10-28,Organic
+BRWE9AFDB26,54,M,Borno,Salaried,431314,True,2023-06-15,Social Media
+BRW83708DBC,19,M,Ogun,Salaried,420724,True,2022-10-25,Social Media
+BRW882579A0,44,F,Imo,Gig Worker,35917,True,2024-01-05,Organic
+BRWD79A4407,23,F,Kano,Salaried,468195,True,2023-11-23,Referral
+BRW52CD075D,21,Unspecified,Lagos,Self-Employed,228518,True,2023-10-01,Referral
+BRWBFCDDF6C,20,F,Anambra,Salaried,396560,True,2022-07-29,Organic
+BRW5326B7F4,18,M,Abuja,Self-Employed,142423,True,2023-05-11,Agent
+BRW7603EF2D,52,M,Ogun,Gig Worker,91659,True,2024-05-29,Referral
+BRW9B257C7B,21,M,Edo,Salaried,91354,True,2022-09-04,Organic
+BRWBC4C2882,47,M,Oyo,Self-Employed,164822,True,2024-09-09,Social Media
+BRWEDB44C6E,27,F,Abuja,Salaried,282281,True,2024-04-13,Social Media
+BRWDBB55D93,18,M,Ogun,Self-Employed,187904,True,2023-10-23,Referral
+BRWC4F361F1,42,F,Kano,Self-Employed,278055,True,2024-01-11,Social Media
+BRW8FA5D90E,18,F,Anambra,Salaried,342478,True,2024-07-13,Referral
+BRWED136D5D,28,M,Imo,Salaried,423890,True,2022-12-14,Social Media
+BRW0FF09920,55,F,Oyo,Salaried,491545,False,2022-03-11,Agent
+BRW59D44057,41,F,Kano,Self-Employed,163667,True,2024-08-07,Social Media
+BRW124754BC,42,M,Ogun,Salaried,445831,True,2023-09-25,Referral
+BRW0BE9C210,19,M,Abuja,Salaried,464238,True,2023-05-27,Agent
+BRW067087F4,32,F,Plateau,Gig Worker,148624,True,2022-08-31,Organic
+BRWEE1A8F33,57,F,Delta,Gig Worker,70342,False,2022-03-05,Referral
+BRWB101A5A6,20,M,Kaduna,Gig Worker,29552,True,2024-05-10,Organic
+BRW1B755E5F,22,M,Imo,Salaried,315672,True,2022-07-24,Organic
+BRWFB5B6864,32,M,Kano,Gig Worker,49556,True,2023-06-26,Referral
+BRW86DD0713,22,F,Abuja,Self-Employed,204918,True,2024-04-09,Organic
+BRW3912DB29,18,M,Abuja,Gig Worker,94487,True,2023-11-30,Referral
+BRWFCC968E4,59,M,Rivers,Self-Employed,170069,True,2023-05-01,Social Media
+BRW192A967B,27,M,Abuja,Gig Worker,131859,True,2023-10-03,Social Media
+BRW3E65F658,19,M,Abuja,Salaried,490196,True,2022-08-25,Organic
+BRWC58F6538,34,F,Oyo,Salaried,231989,True,2023-01-02,Organic
+BRW928E0084,56,M,Anambra,Unemployed,0,False,2023-05-28,Social Media
+BRW523A8640,39,M,Enugu,Self-Employed,273782,False,2022-09-27,Referral
+BRW6C165299,18,M,Borno,Self-Employed,92562,True,2022-07-29,Social Media
+BRW1105435A,47,M,Enugu,Unemployed,26736,True,2024-08-28,Social Media
+BRW749AAA41,38,M,Abuja,Gig Worker,125839,False,2023-09-05,Referral
+BRW3BFDD682,60,F,Oyo,Gig Worker,82753,True,2022-04-17,Organic
+BRWC49F5D77,33,M,Borno,Gig Worker,76559,False,2024-09-21,Organic
+BRW7C9151B5,60,F,Anambra,Salaried,489900,True,2023-01-24,Referral
+BRW0C6010A7,47,M,Delta,Self-Employed,53668,True,2023-03-17,Referral
+BRWC3CB836E,35,F,Plateau,Salaried,141862,True,2022-07-18,Social Media
+BRWC3013676,59,F,Rivers,Salaried,128229,True,2024-02-10,Agent
+BRWE843E68D,51,F,Edo,Self-Employed,299768,True,2024-04-12,Organic
+BRW2D0B805F,19,M,Kaduna,Self-Employed,114080,True,2024-06-30,Organic
+BRW07FA27D2,25,F,Imo,Self-Employed,165488,True,2022-09-14,Agent
+BRWF819779C,23,M,Plateau,Gig Worker,126617,False,2023-03-31,Referral
+BRW0BCF6A0F,61,F,Rivers,Gig Worker,58362,True,2022-10-01,Social Media
+BRW737349A8,34,F,Katsina,Salaried,261736,False,2023-05-13,Organic
+BRW6BB91DAA,23,M,Katsina,Salaried,353151,True,2022-05-06,Social Media
+BRW1B2F3045,52,F,Imo,Salaried,203262,True,2024-09-02,Organic
+BRWAB803524,33,F,Oyo,Salaried,225734,False,2022-03-28,Organic
+BRW1088A0F0,55,F,Delta,Self-Employed,44941,True,2022-08-18,Organic
+BRW282A1324,22,F,Lagos,Self-Employed,53699,True,2022-12-23,Agent
+BRW5456DEB5,58,F,Plateau,Gig Worker,64068,True,2024-02-11,Social Media
+BRW9DE949C3,48,M,Delta,Salaried,405860,True,2024-08-08,Referral
+BRW1C3C0507,19,F,Plateau,Salaried,283481,True,2024-05-29,Agent
+BRW6EF55507,34,F,Anambra,Self-Employed,228539,True,2024-09-10,Social Media
+BRW0A3C959E,47,M,Imo,Unemployed,9321,False,2022-03-29,Agent
+BRW7358D8B8,49,M,Ogun,Salaried,379411,True,2022-10-03,Referral
+BRW96849159,50,M,Oyo,Gig Worker,99691,True,2022-11-25,Referral
+BRW4B67F798,54,M,Enugu,Self-Employed,44526,True,2023-01-03,Social Media
+BRWCCDF872C,54,F,Abuja,Salaried,110715,True,2023-09-17,Social Media
+BRWB3A375BF,61,F,Oyo,Self-Employed,107634,True,2023-05-22,Organic
+BRWB3803DE6,40,F,Rivers,Salaried,403983,True,2022-02-09,Organic
+BRW5908F14E,33,M,Katsina,Self-Employed,123187,True,2024-09-01,Referral
+BRW1F4954C1,24,F,Edo,Salaried,435670,True,2024-01-06,Organic
+BRW6B0C762B,23,M,Anambra,Salaried,345781,True,2022-07-28,Social Media
+BRW5B4524A5,28,M,Delta,Gig Worker,74521,False,2022-05-27,Organic
+BRW313BD76E,38,M,Imo,Self-Employed,295616,True,2024-08-23,Agent
+BRW9070931B,39,M,Kano,Salaried,103388,False,2022-01-27,Organic
+BRWDEF0F897,23,F,Anambra,Salaried,455268,True,2023-12-31,Social Media
+BRW9AFB17AE,23,F,Kano,Gig Worker,24272,True,2023-10-27,Organic
+BRW768462AC,19,Unspecified,Imo,Unemployed,0,True,2023-03-05,Social Media
+BRW2D30EB07,21,M,Enugu,Gig Worker,124622,True,2023-06-17,Social Media
+BRW0F9FC57E,24,F,Kaduna,Gig Worker,58412,True,2024-02-26,Agent
+BRW788C2EA9,23,F,Enugu,Salaried,140511,True,2024-06-20,Social Media
+BRWDEF68D8E,20,F,Imo,Self-Employed,60039,True,2022-08-24,Social Media
+BRW154FCEEA,30,Unspecified,Plateau,Self-Employed,256736,True,2024-03-06,Agent
+BRW263D44BF,43,M,Oyo,Gig Worker,99370,True,2022-05-01,Organic
+BRW73D9AE45,30,F,Rivers,Unemployed,0,False,2024-06-16,Social Media
+BRW18905C74,22,F,Plateau,Self-Employed,240673,True,2022-04-14,Organic
+BRW9DF6A2FE,18,M,Abuja,Self-Employed,220891,True,2024-06-06,Social Media
+BRW88271649,28,M,Anambra,Self-Employed,73411,True,2022-10-28,Organic
+BRWC0A652DB,58,F,Abuja,Gig Worker,97526,False,2022-02-16,Organic
+BRWCA8A1178,59,F,Delta,Unemployed,18398,True,2023-05-04,Referral
+BRWE7102119,47,F,Plateau,Gig Worker,97274,True,2022-06-05,Agent
+BRWBCD8CC62,37,M,Kaduna,Self-Employed,210237,True,2023-06-05,Referral
+BRW2226E454,25,M,Kaduna,Gig Worker,50443,True,2023-06-15,Agent
+BRWBE2F1817,36,M,Delta,Gig Worker,75927,True,2022-07-02,Agent
+BRW237A04A6,19,M,Ogun,Unemployed,0,False,2022-11-18,Organic
+BRWFE83E0EC,25,M,Rivers,Salaried,223575,False,2022-10-23,Agent
+BRW7B2FD9E9,24,F,Imo,Self-Employed,67818,True,2022-04-09,Organic
+BRW82883C81,54,F,Lagos,Gig Worker,23584,False,2023-07-07,Social Media
+BRWE58DEB32,22,M,Rivers,Self-Employed,255586,True,2024-08-28,Social Media
+BRW39769A68,47,M,Plateau,Self-Employed,257851,True,2023-12-25,Agent
+BRWF38DB512,21,M,Edo,Gig Worker,84651,True,2022-10-13,Referral
+BRWFB45D432,20,F,Rivers,Self-Employed,60726,True,2022-12-01,Organic
+BRW7F958A08,26,M,Borno,Self-Employed,232812,True,2023-12-06,Social Media
+BRWDFAB9AAC,59,F,Anambra,Self-Employed,284414,True,2024-05-11,Social Media
+BRWAC605A35,54,F,Lagos,Self-Employed,288822,True,2023-08-24,Social Media
+BRW1603B4D0,61,M,Enugu,Gig Worker,54771,True,2024-01-22,Social Media
+BRW15CB6792,21,F,Edo,Self-Employed,63255,True,2022-08-08,Organic
+BRW2B260E76,19,F,Lagos,Self-Employed,94669,True,2022-09-27,Referral
+BRWD2645CEA,40,M,Imo,Salaried,262821,False,2024-06-17,Social Media
+BRW26BDFEB4,23,M,Imo,Salaried,334311,True,2023-01-01,Social Media
+BRW1782ADC2,25,F,Delta,Salaried,475817,False,2022-11-30,Organic
+BRWF14321B4,30,F,Kaduna,Salaried,247198,True,2023-12-23,Organic
+BRWDDD388FA,57,M,Delta,Gig Worker,133247,True,2022-01-30,Organic
+BRW4D09760A,33,M,Anambra,Gig Worker,122606,True,2022-09-25,Referral
+BRW85D69ABF,29,M,Plateau,Gig Worker,75731,True,2023-05-13,Referral
+BRW5E9BF8D1,26,M,Rivers,Gig Worker,60437,True,2022-06-20,Social Media
+BRW4AE53D49,50,F,Kano,Salaried,401547,True,2022-01-21,Agent
+BRW2A0C2013,18,F,Plateau,Self-Employed,244585,True,2024-02-24,Social Media
+BRWE7F297D7,41,M,Kano,Self-Employed,134921,False,2023-02-10,Agent
+BRW37898F02,23,M,Delta,Gig Worker,139361,True,2024-01-21,Organic
+BRW061B0360,18,F,Abuja,Gig Worker,118975,True,2024-03-21,Social Media
+BRW7CD92E8C,21,F,Katsina,Salaried,200588,True,2022-10-06,Referral
+BRW2E1BAA8E,52,M,Katsina,Self-Employed,145054,False,2024-06-01,Organic
+BRWE5C3A50F,19,F,Lagos,Gig Worker,119927,True,2024-04-30,Social Media
+BRW6D4E91B1,59,F,Rivers,Salaried,388383,False,2024-05-29,Social Media
+BRW49AF83D4,26,M,Enugu,Self-Employed,46142,True,2022-09-28,Agent
+BRWDF8C35B9,36,M,Delta,Self-Employed,152599,True,2023-05-10,Organic
+BRW406E0B5E,45,M,Enugu,Self-Employed,140246,True,2024-09-01,Social Media
+BRWFEC4131F,35,F,Lagos,Salaried,197472,True,2022-08-26,Social Media
+BRW9C2E4870,32,M,Borno,Salaried,242849,True,2022-03-27,Organic
+BRWF0142EB8,22,F,Abuja,Gig Worker,84200,True,2023-09-24,Referral
+BRW566062D3,34,M,Borno,Gig Worker,119690,True,2023-02-26,Social Media
+BRWC23E63A9,26,F,Ogun,Salaried,248528,True,2022-01-06,Organic
+BRW231E09DF,23,M,Kaduna,Self-Employed,168116,False,2022-08-30,Social Media
+BRWE65E3414,45,F,Katsina,Self-Employed,265090,True,2022-04-18,Social Media
+BRW2CE80D13,19,M,Katsina,Salaried,87143,True,2022-07-22,Social Media
+BRW807DFFA9,63,M,Imo,Salaried,302393,True,2023-05-14,Organic
+BRW3DE9AE40,56,M,Delta,Self-Employed,42427,False,2024-01-08,Agent
+BRWD58A98E1,43,F,Ogun,Self-Employed,201244,True,2022-05-25,Organic
+BRWDDDEAF8C,43,F,Anambra,Gig Worker,144779,True,2023-04-29,Social Media
+BRW6CC306D0,60,F,Kano,Unemployed,28597,True,2024-04-29,Social Media
+BRW8F13057E,25,M,Lagos,Salaried,326674,True,2022-07-12,Organic
+BRW03064DC0,20,M,Enugu,Self-Employed,64828,True,2022-03-10,Social Media
+BRWB7432764,35,M,Rivers,Salaried,409683,True,2024-04-20,Agent
+BRW8A8D5078,30,F,Delta,Gig Worker,68139,False,2023-07-29,Social Media
+BRW1CFD2F4E,42,M,Rivers,Salaried,159912,True,2022-09-27,Social Media
+BRW759CF6B6,21,F,Kaduna,Self-Employed,209038,True,2024-05-23,Social Media
+BRW1243A6B1,24,F,Plateau,Gig Worker,134207,True,2022-06-22,Organic
+BRW7176AD99,23,M,Kano,Salaried,402397,True,2022-01-01,Social Media
+BRW7B196919,58,F,Delta,Salaried,348280,True,2022-12-01,Social Media
+BRW14974A8B,48,M,Delta,Salaried,286174,True,2022-12-30,Social Media
+BRW7605B482,34,F,Rivers,Self-Employed,271548,False,2024-08-26,Referral
+BRW79F6E28B,24,F,Enugu,Salaried,309241,True,2022-09-14,Referral
+BRW53D15001,35,M,Edo,Self-Employed,131273,True,2023-04-23,Referral
+BRW91C05975,27,F,Plateau,Self-Employed,201736,False,2023-01-27,Social Media
+BRW9AE621D0,60,M,Lagos,Unemployed,0,True,2022-12-03,Organic
+BRW40EA1AA6,28,F,Lagos,Salaried,86812,True,2023-10-20,Social Media
+BRWFF09CFF1,19,M,Lagos,Gig Worker,53166,False,2024-04-23,Organic
+BRWA2216CAE,46,F,Enugu,Self-Employed,199264,True,2024-02-07,Agent
+BRWBC556D7B,48,M,Ogun,Gig Worker,25006,False,2022-06-06,Referral
+BRW47159866,22,M,Edo,Gig Worker,30855,True,2023-03-31,Referral
+BRW021A09BE,19,M,Edo,Salaried,365256,True,2023-09-21,Referral
+BRWE34C662D,26,M,Katsina,Gig Worker,137921,True,2023-08-24,Referral
+BRW44A015A4,27,M,Edo,Salaried,428386,True,2022-03-04,Organic
+BRWA74BB65A,53,M,Kano,Self-Employed,231091,True,2022-10-10,Referral
+BRW413581B7,44,F,Edo,Self-Employed,206540,False,2022-11-15,Organic
+BRWAF48CD18,27,F,Abuja,Salaried,377886,True,2023-04-20,Organic
+BRW55D1F014,59,M,Ogun,Salaried,125307,True,2022-01-21,Referral
+BRW025806BC,50,M,Plateau,Salaried,276361,True,2022-09-10,Social Media
+BRWA87FEAA9,43,F,Oyo,Unemployed,11261,True,2023-12-24,Organic
+BRW31C8C112,25,M,Rivers,Self-Employed,148523,True,2022-07-24,Organic
+BRWF2C33FF9,25,M,Kaduna,Gig Worker,54674,True,2022-12-24,Referral
+BRW3443290C,34,F,Lagos,Gig Worker,110051,False,2023-08-23,Social Media
+BRW16C3167F,34,M,Imo,Salaried,448148,True,2024-03-26,Organic
+BRW0DA90945,26,F,Abuja,Unemployed,23075,True,2022-08-04,Organic
+BRWAF486C79,32,M,Imo,Salaried,140449,True,2022-05-24,Social Media
+BRWE93C4EB7,26,F,Lagos,Self-Employed,212570,True,2022-04-18,Referral
+BRW249C8037,56,M,Kaduna,Salaried,300939,True,2022-04-13,Organic
+BRWEDA3FF8F,27,M,Lagos,Salaried,366669,True,2023-09-24,Social Media
+BRW9644D160,36,M,Rivers,Self-Employed,144682,True,2023-01-18,Referral
+BRW3AFE9C79,32,Unspecified,Plateau,Self-Employed,50519,True,2024-08-15,Agent
+BRW98583B36,33,M,Ogun,Self-Employed,242918,True,2022-01-30,Organic
+BRW1A396276,22,F,Anambra,Salaried,392921,True,2024-09-22,Social Media
+BRW92CB9021,21,F,Abuja,Gig Worker,123359,True,2024-02-24,Organic
+BRW6F7FCD53,27,M,Kano,Self-Employed,160740,True,2022-06-26,Social Media
+BRWF2B3FA3E,20,M,Katsina,Salaried,186599,True,2023-12-03,Social Media
+BRW900F9B85,49,M,Enugu,Salaried,163534,True,2023-02-08,Referral
+BRW0681E549,59,M,Rivers,Gig Worker,128966,True,2022-04-09,Social Media
+BRWA2D0F54C,25,F,Edo,Unemployed,18103,True,2024-06-12,Social Media
+BRW8B307A1C,29,F,Ogun,Salaried,336014,True,2024-06-25,Referral
+BRW5EC6B147,49,M,Lagos,Self-Employed,129089,True,2024-02-09,Social Media
+BRWBB509F13,19,M,Rivers,Salaried,342117,True,2022-04-06,Social Media
+BRWB5F7AA2D,41,M,Imo,Self-Employed,114701,False,2022-02-05,Organic
+BRW30E4C976,61,F,Edo,Salaried,288779,True,2024-04-05,Organic
+BRW52350895,43,F,Lagos,Salaried,292060,True,2022-05-12,Social Media
+BRW17759ABB,28,F,Imo,Self-Employed,167438,True,2024-02-29,Organic
+BRW4CF5A729,30,F,Borno,Gig Worker,35198,False,2023-05-30,Social Media
+BRWF04A33BF,32,Unspecified,Abuja,Salaried,360506,True,2023-03-11,Social Media
+BRW7A5A139A,28,M,Plateau,Gig Worker,39711,True,2022-09-22,Organic
+BRW98316B10,52,M,Enugu,Gig Worker,79636,True,2022-05-05,Agent
+BRW2FBD70CD,31,F,Oyo,Salaried,394220,True,2023-11-23,Organic
+BRWC7C306C6,52,M,Delta,Self-Employed,86852,True,2022-11-29,Organic
+BRWA9C77EF4,18,M,Katsina,Salaried,463728,True,2022-06-29,Organic
+BRW54F2F41D,20,M,Plateau,Gig Worker,102958,True,2024-09-22,Social Media
+BRW443523A5,39,F,Lagos,Unemployed,29008,True,2023-01-17,Organic
+BRW5FF0FC68,38,F,Delta,Gig Worker,126492,True,2024-01-13,Organic
+BRWC5C44687,60,M,Kano,Gig Worker,75381,False,2022-09-21,Referral
+BRWF2CCA066,47,F,Borno,Salaried,307244,True,2022-09-25,Agent
+BRW86FDC568,39,M,Borno,Self-Employed,248069,True,2023-08-11,Social Media
+BRWEE90D8C6,48,F,Kano,Self-Employed,235787,True,2023-11-19,Organic
+BRW540A47BF,29,M,Delta,Salaried,229376,True,2024-03-11,Social Media
+BRWFB85E8DC,21,F,Imo,Salaried,394090,True,2022-08-15,Organic
+BRWC253F682,45,M,Katsina,Salaried,400542,True,2023-04-17,Social Media
+BRW048387D9,40,M,Anambra,Salaried,283968,True,2022-12-15,Social Media
+BRW9C85A3BF,53,M,Anambra,Salaried,469321,True,2023-11-21,Social Media
+BRW1A119CF6,29,F,Imo,Gig Worker,94883,True,2022-12-20,Organic
+BRWBE3DF20F,48,M,Kaduna,Self-Employed,119700,True,2023-04-24,Organic
+BRWE36024FE,39,F,Delta,Salaried,264353,False,2022-01-24,Referral
+BRW08D29556,25,M,Plateau,Gig Worker,149719,True,2023-01-23,Referral
+BRW8CCF389E,54,M,Abuja,Salaried,194454,True,2022-07-02,Agent
+BRW31B2419F,49,M,Rivers,Unemployed,0,True,2023-09-06,Organic
+BRW1ECF32E5,49,F,Imo,Self-Employed,214125,True,2022-11-22,Social Media
+BRWFB9DA09A,34,M,Enugu,Salaried,291794,True,2024-08-04,Social Media
+BRW1B543A26,59,M,Edo,Salaried,231208,True,2023-04-21,Referral
+BRW3597395A,43,F,Delta,Salaried,384169,True,2023-10-14,Organic
+BRW9A8A1D55,23,Unspecified,Ogun,Self-Employed,171953,True,2023-02-23,Agent
+BRW22B32F94,26,F,Imo,Salaried,378480,True,2023-01-15,Organic
+BRW2E914FED,38,F,Edo,Gig Worker,71031,True,2024-07-24,Organic
+BRW35837F9A,28,M,Katsina,Gig Worker,42965,False,2022-11-27,Organic
+BRWD1CB6380,19,M,Rivers,Salaried,382829,True,2023-03-31,Agent
+BRW5C0D0601,51,F,Edo,Unemployed,21391,True,2024-07-31,Agent
+BRW4E6D29F2,24,M,Lagos,Gig Worker,29154,True,2023-02-21,Agent
+BRW8FB627B5,64,F,Oyo,Gig Worker,29222,False,2023-07-05,Organic
+BRW6C9843CC,50,F,Enugu,Self-Employed,180029,True,2024-01-14,Organic
+BRWE99E0C1E,52,F,Kaduna,Gig Worker,115046,True,2024-08-07,Social Media
+BRWF5E91DC2,41,M,Edo,Self-Employed,72520,True,2024-04-25,Social Media
+BRW20409ACF,51,M,Kaduna,Gig Worker,68033,True,2022-09-06,Referral
+BRW579ADF8E,23,F,Enugu,Salaried,416611,False,2023-05-19,Referral
+BRWCA3923D5,48,M,Borno,Salaried,441336,True,2022-09-22,Social Media
+BRWD62466D0,37,M,Lagos,Gig Worker,39401,True,2023-01-15,Social Media
+BRW6B2FDC73,45,M,Imo,Salaried,455304,True,2024-01-01,Social Media
+BRWD538300F,25,M,Ogun,Gig Worker,111105,True,2023-01-29,Organic
+BRW07A4B7E3,23,M,Ogun,Gig Worker,96445,True,2023-01-08,Referral
+BRWC7030F5B,47,F,Kaduna,Unemployed,0,True,2023-08-25,Agent
+BRW92270678,25,F,Imo,Self-Employed,266861,True,2023-06-22,Social Media
+BRWDC268CCA,32,F,Kaduna,Self-Employed,215307,True,2022-07-31,Organic
+BRW6F2A0135,24,M,Rivers,Gig Worker,123451,True,2023-04-16,Social Media
+BRWCA62797F,40,F,Borno,Salaried,471253,True,2024-07-08,Organic
+BRWBEEE0BCA,23,F,Kaduna,Gig Worker,72231,True,2022-10-05,Social Media
+BRWE99B3C12,34,M,Borno,Gig Worker,134375,True,2023-08-04,Social Media
+BRW8DBCDE65,24,F,Imo,Gig Worker,43944,False,2022-08-22,Referral
+BRWFC4F8C80,31,M,Oyo,Salaried,399363,True,2022-07-14,Referral
+BRW1152FD03,59,M,Rivers,Unemployed,0,True,2024-02-19,Social Media
+BRWEC8E1AFF,31,M,Borno,Self-Employed,244842,True,2022-07-21,Social Media
+BRW28B1D714,30,M,Rivers,Self-Employed,66181,True,2022-11-04,Social Media
+BRW207C17C2,36,F,Enugu,Gig Worker,34617,True,2022-07-19,Social Media
+BRW627BC9D0,40,M,Delta,Gig Worker,20064,True,2023-05-20,Referral
+BRW0169EE04,26,F,Oyo,Self-Employed,114384,True,2023-06-29,Organic
+BRWC4FE3B4E,24,F,Abuja,Self-Employed,120951,False,2024-08-26,Organic
+BRW3A6BB03E,18,M,Kano,Gig Worker,86787,True,2024-02-18,Social Media
+BRW86640F74,25,F,Edo,Unemployed,0,True,2024-03-08,Organic
+BRWF3375272,23,M,Anambra,Salaried,240109,True,2023-12-03,Social Media
+BRWA8D46EF0,38,M,Rivers,Self-Employed,80526,True,2024-03-15,Organic
+BRWC216A2D9,21,F,Enugu,Gig Worker,62687,True,2024-03-18,Social Media
+BRW718F11E6,46,M,Edo,Salaried,217811,False,2023-01-15,Organic
+BRW359F937F,26,M,Oyo,Self-Employed,235353,True,2023-02-07,Referral
+BRWD87F2299,18,M,Borno,Unemployed,6812,True,2023-04-13,Referral
+BRW553CEB63,18,F,Oyo,Gig Worker,47342,True,2023-01-18,Organic
+BRWF163719D,30,F,Rivers,Self-Employed,186294,True,2023-09-25,Social Media
+BRW16803E5A,55,M,Katsina,Salaried,207474,True,2024-01-09,Social Media
+BRW0534962C,61,F,Katsina,Unemployed,0,True,2022-10-14,Agent
+BRW79AB3A8A,37,F,Oyo,Salaried,109420,True,2023-03-25,Agent
+BRWC837D15F,20,M,Borno,Salaried,473124,True,2024-04-24,Organic
+BRW0F08994F,21,F,Enugu,Salaried,184854,True,2023-08-10,Social Media
+BRWF99C8CD9,42,M,Lagos,Self-Employed,254252,True,2024-02-28,Organic
+BRW4F060DD4,50,F,Kaduna,Gig Worker,61151,False,2023-04-02,Referral
+BRW33E33626,23,M,Kaduna,Salaried,199371,True,2024-09-21,Referral
+BRW2187CDBE,24,M,Imo,Gig Worker,23032,True,2023-02-10,Referral
+BRW1DE8995C,51,F,Anambra,Gig Worker,27901,True,2023-08-03,Social Media
+BRW34EC67B4,18,M,Anambra,Self-Employed,249263,True,2023-08-12,Social Media
+BRWF875FAD2,19,Unspecified,Borno,Salaried,128309,True,2022-06-12,Referral
+BRW2545E61E,54,F,Rivers,Salaried,325601,True,2024-02-25,Referral
+BRW63774675,52,F,Katsina,Self-Employed,273139,True,2022-12-05,Organic
+BRW62CECE2F,41,F,Katsina,Salaried,356674,False,2023-03-19,Agent
+BRW929B1FB2,29,F,Lagos,Salaried,406993,True,2022-11-27,Social Media
+BRWF61C23C3,24,F,Anambra,Salaried,433652,True,2023-11-13,Organic
+BRW44A731A6,53,M,Borno,Unemployed,28425,True,2022-11-12,Organic
+BRWE9314176,18,M,Kano,Self-Employed,261432,True,2024-09-04,Organic
+BRWBAE2413C,56,M,Delta,Unemployed,0,False,2022-08-27,Agent
+BRW4B79D623,23,F,Enugu,Self-Employed,75995,True,2024-08-28,Social Media
+BRWF52207F2,31,M,Lagos,Gig Worker,116981,True,2023-02-13,Organic
+BRW6757C6EC,49,M,Kano,Self-Employed,72676,True,2023-08-16,Referral
+BRW27E302F1,21,F,Katsina,Gig Worker,35775,True,2024-02-07,Agent
+BRWF484EBFD,29,F,Kaduna,Salaried,127600,True,2023-06-05,Organic
+BRWE0693993,31,M,Edo,Salaried,300208,True,2023-01-05,Agent
+BRW82941124,54,F,Rivers,Self-Employed,262247,False,2022-03-28,Referral
+BRW833A5A34,52,F,Oyo,Gig Worker,22077,True,2024-07-07,Social Media
+BRW7A28EBF8,21,M,Anambra,Salaried,376002,True,2023-12-13,Social Media
+BRW1A64335D,18,F,Imo,Self-Employed,95004,True,2023-09-25,Social Media
+BRW23D9CB54,21,F,Katsina,Salaried,351895,True,2023-11-16,Organic
+BRW3935EC93,56,M,Rivers,Salaried,165130,True,2023-10-03,Social Media
+BRW4D98CCBC,54,F,Kaduna,Self-Employed,47465,True,2023-04-27,Organic
+BRW79827838,56,F,Katsina,Unemployed,0,True,2022-06-11,Organic
+BRW5A72D174,27,Unspecified,Abuja,Salaried,300139,False,2023-04-21,Agent
+BRW8D76F6AC,55,F,Borno,Self-Employed,75233,True,2022-11-15,Social Media
+BRWDA384785,58,F,Kaduna,Salaried,249280,False,2023-11-16,Referral
+BRW2A4F8B8E,32,F,Kano,Gig Worker,131669,True,2022-05-13,Referral
+BRWD5E6BAD1,21,M,Delta,Gig Worker,117410,True,2023-09-22,Organic
+BRW84B3B76A,23,M,Katsina,Salaried,425699,False,2023-11-16,Social Media
+BRW93837154,33,M,Delta,Unemployed,13740,True,2022-05-29,Social Media
+BRW0E502CAB,60,M,Lagos,Salaried,499310,True,2024-09-30,Organic
+BRWABA66043,21,M,Delta,Salaried,496689,True,2023-08-09,Social Media
+BRWBFB5F843,55,M,Rivers,Salaried,382619,True,2022-09-27,Social Media
+BRW22F2B00F,20,M,Kaduna,Salaried,482921,True,2024-07-02,Organic
+BRWC30B7B35,26,M,Imo,Gig Worker,121188,True,2024-05-26,Social Media
+BRW01E928E8,34,M,Lagos,Salaried,271586,False,2022-05-10,Organic
+BRWA6997BFE,63,F,Oyo,Gig Worker,35765,True,2022-12-22,Social Media
+BRW1F57CB19,30,Unspecified,Kano,Unemployed,7718,True,2024-08-21,Agent
+BRW1DA9B10B,33,M,Lagos,Salaried,436816,True,2024-02-02,Social Media
+BRWA20D1791,38,M,Borno,Salaried,358167,True,2023-07-07,Organic
+BRW8FB9FF85,61,M,Imo,Self-Employed,138165,True,2023-10-12,Agent
+BRW120DF399,23,F,Ogun,Unemployed,0,True,2022-07-27,Organic
+BRW90C33825,62,M,Delta,Unemployed,0,False,2023-04-25,Social Media
+BRW2107C702,46,M,Anambra,Salaried,119253,True,2022-08-02,Agent
+BRW4F2EAD1A,39,M,Enugu,Unemployed,6940,False,2024-02-22,Agent
+BRWE96E7BAA,63,F,Delta,Unemployed,17820,True,2022-09-12,Referral
+BRWC282791F,19,M,Katsina,Unemployed,0,True,2024-08-25,Referral
+BRW304E3DAF,23,F,Lagos,Salaried,224425,True,2023-06-18,Social Media
+BRWDCE4D3CA,20,M,Enugu,Self-Employed,163498,True,2022-05-08,Social Media
+BRWD89B867B,38,F,Kaduna,Salaried,475444,False,2024-08-30,Agent
+BRW21C32B40,28,F,Delta,Gig Worker,34789,True,2024-06-16,Referral
+BRW43493DB9,55,M,Abuja,Self-Employed,116311,True,2024-01-20,Referral
+BRW1CDC3CA4,38,F,Enugu,Self-Employed,267897,False,2024-09-13,Social Media
+BRWCF605723,19,M,Katsina,Salaried,483673,True,2024-07-15,Organic
+BRW90FEC38E,33,M,Kaduna,Self-Employed,259230,True,2022-04-14,Referral
+BRW6F454315,32,F,Imo,Self-Employed,98035,True,2024-03-10,Referral
+BRW7A5BEE09,32,M,Anambra,Self-Employed,188273,False,2023-11-15,Social Media
+BRWD550D57A,38,F,Abuja,Self-Employed,248037,True,2022-05-01,Agent
+BRW935EBFC0,23,F,Delta,Self-Employed,225940,True,2024-01-06,Referral
+BRW6370AC7F,27,M,Edo,Gig Worker,131703,True,2024-08-20,Social Media
+BRW14C580D6,51,F,Lagos,Gig Worker,76596,True,2022-07-05,Organic
+BRW9D0F5CDA,61,F,Katsina,Salaried,296082,True,2024-07-01,Organic
+BRW39BC4043,52,M,Borno,Salaried,210390,True,2023-04-15,Referral
+BRW13134646,40,M,Borno,Gig Worker,41049,False,2023-10-26,Social Media
+BRW8C3163B6,29,F,Edo,Salaried,170207,True,2022-12-27,Referral
+BRW3796298A,47,M,Oyo,Gig Worker,49828,True,2024-01-10,Organic
+BRW7469B55A,29,M,Delta,Self-Employed,207634,True,2024-05-26,Referral
+BRW7D2AA187,27,M,Kano,Gig Worker,137411,False,2022-11-27,Organic
+BRW04F5AA80,22,F,Anambra,Salaried,345352,True,2023-07-28,Social Media
+BRW7677B004,29,M,Katsina,Gig Worker,46033,True,2024-06-16,Referral
+BRW0A612FA1,55,M,Delta,Salaried,258343,True,2023-01-30,Organic
+BRWC89F26AE,62,F,Ogun,Gig Worker,136319,True,2022-03-26,Social Media
+BRWBCEC47AA,23,M,Imo,Gig Worker,52231,False,2022-01-27,Social Media
+BRW2942FFFB,53,M,Borno,Unemployed,13039,True,2022-01-13,Organic
+BRWAB5AD91D,62,F,Delta,Gig Worker,83343,True,2023-08-05,Organic
+BRWC09EA30D,22,F,Plateau,Self-Employed,144757,False,2023-02-01,Referral
+BRW2BF6C0DB,45,M,Plateau,Unemployed,0,False,2022-11-24,Social Media
+BRW021FCAA2,19,F,Katsina,Gig Worker,62160,True,2023-07-06,Social Media
+BRW378207C6,20,M,Abuja,Unemployed,21628,True,2023-09-11,Organic
+BRW34F0E464,27,F,Rivers,Gig Worker,147990,True,2023-08-12,Referral
+BRW086313AE,31,M,Kano,Self-Employed,194943,True,2023-04-05,Social Media
+BRWB84CACDE,19,M,Imo,Salaried,450309,True,2024-09-04,Referral
+BRWAA6C89A8,36,F,Delta,Unemployed,0,True,2024-08-23,Organic
+BRWAE8DCBEE,29,M,Imo,Gig Worker,60609,True,2022-08-27,Social Media
+BRWD40BF4A5,56,Unspecified,Ogun,Unemployed,9726,True,2022-01-07,Agent
+BRWC7EB31C0,19,M,Abuja,Gig Worker,96997,True,2023-06-27,Social Media
+BRW92591160,22,F,Kano,Salaried,395372,False,2022-01-31,Referral
+BRW6920DA13,33,M,Delta,Salaried,126717,True,2024-08-29,Referral
+BRW0CB7FB0A,51,M,Kaduna,Self-Employed,164363,True,2022-11-15,Social Media
+BRWF38AA881,45,M,Oyo,Gig Worker,85494,True,2022-08-21,Social Media
+BRWFBB8E72F,41,F,Anambra,Salaried,316835,True,2024-06-19,Referral
+BRWF184E8D4,63,M,Lagos,Salaried,275636,False,2023-06-26,Organic
+BRW84CA7201,26,F,Ogun,Salaried,499450,True,2022-03-13,Agent
+BRWAC4238F4,22,M,Kaduna,Self-Employed,87654,True,2023-12-01,Agent
+BRWD51D8DF0,38,M,Edo,Self-Employed,273684,False,2022-07-01,Social Media
+BRWAD50E2BD,52,M,Anambra,Self-Employed,203075,False,2024-03-23,Agent
+BRW381C9312,52,M,Imo,Salaried,232793,True,2023-06-15,Organic
+BRWCC3AE91C,20,Unspecified,Plateau,Salaried,161397,True,2023-04-11,Agent
+BRW814800A6,35,F,Imo,Self-Employed,157423,True,2022-12-13,Organic
+BRWBDDFB537,21,M,Kaduna,Unemployed,0,True,2024-08-01,Social Media
+BRWDD3D69EE,54,F,Abuja,Gig Worker,118908,False,2022-04-04,Referral
+BRW6F632255,26,F,Anambra,Self-Employed,190755,True,2023-07-14,Referral
+BRWD59A0F7B,25,M,Imo,Salaried,480305,True,2023-03-22,Social Media
+BRWE44B2A9D,32,F,Ogun,Self-Employed,124283,True,2023-05-25,Agent
+BRWED78D03F,49,M,Edo,Gig Worker,111606,True,2024-08-27,Organic
+BRWFB17587D,57,M,Imo,Gig Worker,94878,True,2022-02-19,Social Media
+BRWB218BD28,19,M,Anambra,Salaried,178691,True,2024-04-25,Referral
+BRW5DCE59F3,30,M,Kaduna,Self-Employed,262618,True,2022-02-15,Agent
+BRW497E74C7,20,M,Rivers,Unemployed,12260,True,2023-08-08,Referral
+BRW89F5E17A,18,M,Oyo,Unemployed,11751,True,2022-09-04,Referral
+BRW9970B1BD,59,Unspecified,Edo,Salaried,172829,True,2024-07-28,Referral
+BRWAF36AD3B,19,F,Oyo,Salaried,209065,False,2023-03-09,Referral
+BRW6B6AA530,45,F,Katsina,Unemployed,0,False,2023-02-24,Referral
+BRW8B92C26F,29,F,Rivers,Self-Employed,112898,True,2023-05-15,Organic
+BRW51F32A90,18,F,Enugu,Gig Worker,25478,True,2023-12-08,Organic
+BRW82B2E903,40,M,Kano,Salaried,494811,True,2022-06-21,Agent
+BRWBFF8CBB9,24,F,Oyo,Gig Worker,141978,True,2022-10-19,Agent
+BRW56CD0853,24,F,Plateau,Gig Worker,71761,True,2022-03-30,Social Media
+BRW32E57792,33,M,Abuja,Salaried,98714,True,2022-02-08,Referral
+BRW0AB6AF99,22,M,Delta,Gig Worker,125697,True,2023-03-25,Referral
+BRW238AB41B,30,F,Borno,Gig Worker,106884,False,2024-02-26,Organic
+BRW93488647,25,M,Edo,Self-Employed,288667,False,2024-08-01,Organic
+BRWECE08397,31,M,Oyo,Unemployed,0,True,2022-08-19,Organic
+BRW4EB8D3BD,22,M,Enugu,Gig Worker,77523,True,2022-09-09,Referral
+BRWEC89BF83,25,F,Lagos,Salaried,366850,True,2022-03-08,Social Media
+BRWDAD54189,34,F,Kaduna,Self-Employed,84542,True,2022-05-27,Agent
+BRWA9A48377,43,F,Edo,Salaried,81793,True,2023-08-04,Organic
+BRWBA4FD1DC,23,M,Lagos,Self-Employed,187754,True,2024-07-21,Social Media
+BRW33C1AC4E,36,F,Enugu,Self-Employed,219728,False,2022-09-01,Referral
+BRW57CE7E29,39,M,Plateau,Salaried,413812,False,2023-04-11,Social Media
+BRWB360C80D,27,F,Delta,Salaried,414020,False,2024-06-22,Organic
+BRW11FED04E,47,M,Enugu,Self-Employed,118605,True,2024-06-19,Social Media
+BRWC7290A0B,23,F,Rivers,Self-Employed,260236,False,2023-03-08,Agent
+BRW3BE35CB2,31,M,Kaduna,Self-Employed,289659,True,2023-11-13,Social Media
+BRWA97A0BE1,46,F,Ogun,Salaried,193749,True,2024-06-13,Referral
+BRWB8BB36DC,50,M,Borno,Self-Employed,161471,True,2023-01-19,Referral
+BRW72943776,23,M,Enugu,Salaried,136963,True,2024-05-02,Agent
+BRWDC867721,56,M,Anambra,Self-Employed,92274,False,2023-11-07,Social Media
+BRWB6756BEF,34,M,Rivers,Salaried,312249,True,2023-11-15,Organic
+BRW1DB55C97,63,M,Delta,Gig Worker,120825,True,2024-03-31,Organic
+BRW666A4BD9,29,F,Borno,Self-Employed,267548,False,2022-11-20,Referral
+BRW2683A94A,49,F,Imo,Self-Employed,204648,True,2022-03-08,Organic
+BRWED2CEA81,18,M,Abuja,Gig Worker,26914,True,2024-07-12,Social Media
+BRWA7B06B64,47,M,Plateau,Unemployed,15078,True,2024-07-15,Referral
+BRW24789521,32,M,Borno,Gig Worker,57976,True,2024-07-11,Agent
+BRW85E251A5,22,M,Anambra,Salaried,404161,True,2023-04-26,Referral
+BRW79516E11,25,Unspecified,Imo,Gig Worker,52688,False,2024-07-20,Social Media
+BRW0947D0F5,48,M,Enugu,Salaried,279727,True,2022-01-21,Social Media
+BRW438F00B5,64,F,Kano,Self-Employed,155588,True,2022-01-21,Agent
+BRW039E0438,61,M,Abuja,Self-Employed,272155,False,2022-03-12,Organic
+BRWC0E24BBE,39,M,Plateau,Gig Worker,140162,True,2023-11-16,Organic
+BRWF7CE52CA,40,F,Abuja,Salaried,495646,True,2024-03-29,Social Media
+BRW14AC6376,39,M,Edo,Self-Employed,299968,True,2023-06-10,Organic
+BRW3DEA1410,34,M,Imo,Unemployed,0,True,2022-11-10,Organic
+BRW9506BAE6,64,F,Borno,Salaried,223044,True,2023-11-07,Organic
+BRW3DB0B019,35,M,Ogun,Salaried,407244,True,2023-01-25,Organic
+BRW3E966C45,32,F,Katsina,Self-Employed,222265,True,2023-01-11,Referral
+BRWAD67BEE7,55,F,Kano,Gig Worker,73371,False,2024-01-07,Organic
+BRW00CC4C8E,22,F,Plateau,Salaried,123676,True,2024-04-04,Referral
+BRW7E4AF995,26,M,Kano,Self-Employed,69759,True,2022-04-20,Organic
+BRWBC5DE5F1,22,F,Borno,Salaried,379844,True,2022-03-19,Organic
+BRWE2CF9AD4,18,F,Abuja,Gig Worker,134053,True,2023-10-04,Agent
+BRW81D573A3,62,F,Abuja,Self-Employed,126743,True,2022-02-27,Referral
+BRW645229FF,23,M,Katsina,Gig Worker,30637,False,2022-01-04,Social Media
+BRW99F19160,43,M,Kaduna,Salaried,455903,True,2022-07-17,Social Media
+BRWCA72717B,22,M,Katsina,Unemployed,24839,True,2024-06-04,Agent
+BRW1CB8DA0A,30,M,Rivers,Self-Employed,60855,True,2024-06-18,Social Media
+BRW1C6168C7,63,F,Rivers,Gig Worker,112126,True,2022-11-26,Referral
+BRW42CD12A6,23,F,Ogun,Self-Employed,259162,True,2023-10-18,Organic
+BRWD8DB9FCD,30,M,Lagos,Gig Worker,116396,True,2024-09-18,Referral
+BRW49621A11,25,M,Kaduna,Salaried,112306,False,2022-03-03,Referral
+BRW07726249,52,F,Enugu,Salaried,480783,True,2024-02-02,Referral
+BRWAFC288FA,25,M,Imo,Gig Worker,139862,True,2024-09-09,Organic
+BRW07826E20,24,M,Borno,Gig Worker,79085,True,2023-05-27,Social Media
+BRW60FC15E2,32,M,Ogun,Self-Employed,235289,True,2023-12-09,Social Media
+BRW9DABE071,31,F,Delta,Self-Employed,282075,True,2024-07-09,Social Media
+BRW5D7C4294,21,M,Lagos,Gig Worker,70536,False,2024-03-18,Social Media
+BRW626A36D8,64,M,Delta,Self-Employed,144705,True,2023-11-09,Agent
+BRW8403ABEF,21,M,Kano,Unemployed,0,True,2022-07-22,Organic
+BRWADB272D5,28,M,Rivers,Salaried,368006,True,2024-01-12,Social Media
+BRWAA26AD49,30,F,Lagos,Gig Worker,83876,True,2022-04-19,Organic
+BRWF118FA91,26,M,Anambra,Self-Employed,115843,False,2024-04-02,Organic
+BRWEB144433,32,F,Imo,Unemployed,0,True,2023-09-19,Organic
+BRW2185409F,21,M,Katsina,Salaried,459981,False,2023-01-14,Social Media
+BRWCCCF433A,32,M,Rivers,Salaried,273991,False,2023-12-06,Organic
+BRW91090605,56,F,Anambra,Salaried,329659,True,2024-03-23,Social Media
+BRW663CCB5D,22,F,Ogun,Salaried,248733,False,2022-08-23,Referral
+BRW75357C09,38,M,Enugu,Gig Worker,52649,False,2022-11-17,Social Media
+BRW183F154F,20,M,Anambra,Gig Worker,101737,True,2023-09-10,Agent
+BRW035F3B46,61,M,Borno,Gig Worker,28772,True,2024-02-28,Organic
+BRW2A2092C2,21,M,Rivers,Gig Worker,27736,True,2022-12-02,Social Media
+BRWF756A8F1,39,M,Kaduna,Self-Employed,245438,True,2022-11-18,Referral
+BRW624C798A,34,M,Plateau,Gig Worker,104651,True,2022-05-04,Organic
+BRW575DAC74,19,F,Oyo,Gig Worker,88616,True,2023-01-21,Social Media
+BRW01B79C3B,52,M,Oyo,Salaried,216832,True,2023-10-30,Referral
+BRW19F889FF,30,F,Kano,Self-Employed,243370,True,2023-01-27,Social Media
+BRW1510812B,37,F,Enugu,Gig Worker,34122,True,2023-12-25,Referral
+BRWD341737C,25,F,Abuja,Self-Employed,124621,True,2022-12-01,Social Media
+BRWD47D063E,28,M,Lagos,Salaried,457750,True,2023-10-24,Social Media
+BRW4D767443,22,M,Oyo,Self-Employed,239368,True,2024-02-14,Social Media
+BRW355A9E10,57,F,Enugu,Salaried,456056,True,2022-03-11,Organic
+BRW5839EEC6,20,M,Borno,Salaried,454264,True,2023-01-01,Social Media
+BRWFA775768,29,M,Lagos,Gig Worker,84547,True,2023-10-20,Referral
+BRW0E5DA129,44,F,Enugu,Self-Employed,63454,True,2024-02-21,Agent
+BRW3C21458A,24,F,Lagos,Salaried,418039,True,2024-05-13,Referral
+BRW369C217C,32,M,Kano,Salaried,477686,False,2022-05-21,Social Media
+BRWE841CD10,26,M,Anambra,Gig Worker,107852,True,2023-05-20,Organic
+BRW65D0716A,45,M,Ogun,Self-Employed,57815,True,2022-08-24,Social Media
+BRW4792CDDA,18,F,Anambra,Gig Worker,96229,False,2022-06-18,Social Media
+BRWC9972DF5,21,F,Oyo,Salaried,409084,True,2023-01-19,Social Media
+BRW3EE361CA,22,M,Rivers,Salaried,398567,True,2022-09-24,Social Media
+BRWA94FC3B0,41,F,Imo,Self-Employed,156796,True,2024-02-28,Social Media
+BRW18F58560,22,F,Edo,Salaried,135957,True,2024-02-17,Social Media
+BRWCA778286,48,M,Ogun,Gig Worker,108369,True,2023-01-05,Social Media
+BRW4B580EB6,41,M,Lagos,Salaried,212294,True,2022-08-10,Referral
+BRW338E334D,55,M,Kaduna,Salaried,457457,True,2023-02-05,Referral
+BRWB18DA1B0,22,F,Borno,Self-Employed,187018,False,2024-05-27,Agent
+BRW0D5631B4,19,F,Ogun,Salaried,80141,True,2022-01-12,Agent
+BRWF780130F,60,F,Kano,Salaried,279974,True,2023-01-12,Organic
+BRW4156ED53,22,M,Oyo,Self-Employed,269754,True,2022-01-23,Organic
+BRWB7B2C835,18,M,Plateau,Salaried,154364,False,2024-03-30,Agent
+BRWFD85CFBE,21,F,Lagos,Self-Employed,289672,False,2024-08-12,Social Media
+BRW067BFE9C,18,M,Plateau,Salaried,203104,True,2023-07-25,Organic
+BRW0CD2EC47,18,F,Kano,Self-Employed,56589,True,2023-02-12,Referral
+BRWEA19FCE1,18,M,Kano,Self-Employed,257697,False,2023-08-14,Agent
+BRW5E1435F3,41,F,Rivers,Unemployed,14202,True,2022-01-25,Referral
+BRW41AC8C0D,62,M,Lagos,Salaried,441588,False,2022-02-15,Agent
+BRWB48B82AF,53,F,Borno,Self-Employed,289599,True,2024-05-18,Referral
+BRW4F8CA2B3,25,M,Enugu,Salaried,272569,True,2023-01-18,Referral
+BRW2CD77193,28,M,Imo,Self-Employed,78193,True,2022-06-28,Social Media
+BRW3A73836B,28,F,Plateau,Unemployed,0,True,2023-07-10,Social Media
+BRW7A7B4E40,62,F,Kaduna,Salaried,212749,False,2023-10-23,Social Media
+BRW1C766880,48,F,Kaduna,Gig Worker,41532,True,2024-05-30,Agent
+BRWE1F7C46A,21,F,Kano,Salaried,411715,False,2023-08-11,Organic
+BRWEF03E2BB,52,M,Edo,Salaried,443444,True,2022-04-25,Agent
+BRW2FCD7A41,35,M,Plateau,Self-Employed,190854,True,2024-08-22,Organic
+BRW6AA4F807,23,M,Kaduna,Gig Worker,63895,True,2024-03-27,Social Media
+BRWED2271DF,60,M,Ogun,Self-Employed,254790,True,2023-02-22,Referral
+BRW5C893FA2,64,M,Edo,Salaried,417590,True,2024-02-11,Organic
+BRW71BD15CD,18,F,Enugu,Gig Worker,86127,True,2022-03-15,Referral
+BRW23BCA95E,25,F,Anambra,Gig Worker,59696,True,2024-09-01,Referral
+BRW6D365A4B,18,M,Edo,Salaried,143478,True,2022-03-15,Organic
+BRW2C931969,31,F,Lagos,Salaried,267440,True,2022-11-04,Social Media
+BRWB079FD3A,28,F,Enugu,Salaried,404669,True,2023-08-31,Organic
+BRWABF1D2EE,32,M,Oyo,Salaried,247579,True,2024-05-31,Referral
+BRW5F2A3225,48,F,Ogun,Gig Worker,75404,False,2024-08-29,Agent
+BRW18A2300E,32,F,Borno,Salaried,100275,False,2023-05-02,Organic
+BRW2C46B425,20,F,Abuja,Salaried,455184,True,2024-02-07,Social Media
+BRW563E83E8,38,M,Borno,Self-Employed,124639,True,2023-04-08,Organic
+BRW6415224E,29,F,Imo,Salaried,147310,True,2024-08-15,Social Media
+BRW791C7DEF,19,F,Delta,Salaried,224043,True,2023-07-03,Referral
+BRW1CAEEB73,19,M,Kano,Self-Employed,223033,False,2022-10-28,Agent
+BRW794ADA65,19,M,Kano,Self-Employed,151865,False,2022-03-20,Organic
+BRW08614643,32,F,Imo,Salaried,486711,False,2024-03-02,Social Media
+BRWDA502872,25,F,Enugu,Salaried,438106,True,2023-04-01,Referral
+BRW8C606873,61,M,Katsina,Salaried,166210,False,2023-09-12,Social Media
+BRW1A159D12,30,M,Katsina,Self-Employed,223217,True,2023-12-12,Social Media
+BRW52DF3FB5,35,M,Anambra,Self-Employed,48791,True,2022-03-10,Organic
+BRW1A47B220,24,M,Rivers,Unemployed,0,False,2024-06-15,Organic
+BRW0973F2CD,18,F,Enugu,Salaried,177932,True,2023-07-14,Social Media
+BRW0C5C66A1,24,F,Ogun,Salaried,494186,True,2023-07-28,Organic
+BRWD9181513,23,F,Lagos,Salaried,471455,True,2023-06-07,Referral
+BRWE1122C59,20,M,Oyo,Gig Worker,96752,False,2022-05-21,Social Media
+BRW8D2AF94E,24,M,Enugu,Self-Employed,95983,True,2022-08-08,Organic
+BRW049B0CE0,28,F,Abuja,Self-Employed,181925,True,2022-05-11,Agent
